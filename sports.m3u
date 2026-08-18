@@ -4,22 +4,19 @@
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_480.jpg" group-title="Pháo Hoa TV" , 🟢 20:00 18/08 ⚽ Thái Lan vs Singapore (Kevin + Tày) [hls]
 https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
-#EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_381.jpg" group-title="Pháo Hoa TV" , 🟢 18:35 18/08 ⚽ Shanghai Shenhua vs Beijing Guoan (Pháo Thủ) [hls]
-https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
-
-#EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_479.jpg" group-title="Pháo Hoa TV" , 20:00 19/08 ⚽ Việt Nam vs Malaysia (Người Lửa) [hls]
-https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
-
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_479.jpg" group-title="Pháo Hoa TV" , 20:00 19/08 ⚽ Việt Nam vs Malaysia (A Heo) [hls]
 https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_479.jpg" group-title="Pháo Hoa TV" , 20:00 19/08 ⚽ Việt Nam vs Malaysia (Kevin) [hls]
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
 
+#EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_479.jpg" group-title="Pháo Hoa TV" , 20:00 19/08 ⚽ Việt Nam vs Malaysia (Người Lửa) [hls]
+https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
+
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_97.jpg" group-title="Pháo Hoa TV" , 01:00 20/08 ⚽ Barcelona vs Al Ahly (A Heo) [hls]
 https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
-#EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_10546.jpg" group-title="Pháo Hoa TV" , 22:00 18/08 ⚽ Buxoro vs Neftchi Fargona (Kevin) [hls]
+#EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_10546.jpg" group-title="Pháo Hoa TV" , 🟡 22:00 18/08 ⚽ Buxoro vs Neftchi Fargona (Kevin) [hls]
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
 
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_3917.jpg" group-title="Pháo Hoa TV" , 23:00 18/08 ⚽ Heidenheim vs Bayern Munich (Chim Nhỏ) [hls]
@@ -100,7 +97,7 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131729_49908059.png" group-title="Chuối Chiên TV" , 22:00 18/08 ⚽ Buxoro vs Neftchi (Trốc Tru) [FHD] [hls] 
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131729_49908059.png" group-title="Chuối Chiên TV" , 🟡 22:00 18/08 ⚽ Buxoro vs Neftchi (Trốc Tru) [FHD] [hls] 
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
 
@@ -148,11 +145,8 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a9768a6c383d8d91f84fdc876da2a862.png" group-title="Vua Sân Cỏ TV" , 🟢 19:00 18/08 ⚽ Bristol City U21 vs Wigan Athletic U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/3ded3b80afc0982573ec3371eb0ff834/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a9768a6c383d8d91f84fdc876da2a862.png" group-title="Vua Sân Cỏ TV" , 🟢 19:00 18/08 ⚽ Bristol City U21 vs Wigan Athletic U21 (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-2f963a737b27d1f1ccad/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/09fe2ecf88f68970da755f8655d5da8a.png" group-title="Vua Sân Cỏ TV" , 🟢 19:30 18/08 ⚽ Bali United vs Persib Bandung (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/a92d054e084223539a7eed6e2254944a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/43b2dd1c93748297cfbbea4d31247641.png" group-title="Vua Sân Cỏ TV" , 🟢 * 20:00 18/08 ⚽ Thailand vs Singapore (Lưu Triệt) 
 https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
@@ -172,11 +166,14 @@ https://station1-global.ebaclofen.org/live/8a564c03fcfbb6f6a81b2ad7ed0edd06/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d764dd4b7db966672b35de808751b9f0.png" group-title="Vua Sân Cỏ TV" , 🟢 20:15 18/08 ⚽ Charlton Athletic U21 vs Bolton Wanderers U21 (Nhà Đài 2) 
 https://hls.streamhub.media/hls/thesport-api-8a45297393843345e645/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7b9d42db01009692077178915f9c1623.png" group-title="Vua Sân Cỏ TV" , 🟡 21:00 18/08 ⚽ Regar-TadAZ Tursunzoda vs FK Parvoz Bobojon Ghafurov (Nhà Đài 1) 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0eff3f54d4407ac2e90783bc6654e657.png" group-title="Vua Sân Cỏ TV" , 🟢 21:00 18/08 ⚽ Sogdiana Jizak vs Qizilqum Zarafshon (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/7f8e162bc9d27158f96b8c1e61b900f0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7b9d42db01009692077178915f9c1623.png" group-title="Vua Sân Cỏ TV" , 🟢 21:00 18/08 ⚽ Regar-TadAZ Tursunzoda vs FK Parvoz Bobojon Ghafurov (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/0d813a85382d3fb3a897448703e43bca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0eff3f54d4407ac2e90783bc6654e657.png" group-title="Vua Sân Cỏ TV" , 🟡 21:00 18/08 ⚽ Sogdiana Jizak vs Qizilqum Zarafshon (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/7f8e162bc9d27158f96b8c1e61b900f0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c6c5bb133999f12570e9c2dd4b1d69a6.png" group-title="Vua Sân Cỏ TV" , 🟡 21:30 18/08 ⚽ Scolar Resita vs Petrolul Ploiesti (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/b9a7c43ca17962305cd6cad7617f39ca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/05f20ba304df8d83af33fe5f31c423b6.png" group-title="Vua Sân Cỏ TV" , 🟢 00:00 17/08 ⚽ FK Sloga Doboj vs Borac Banja Luka (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/85edef980123bc277eeac4e73653b9b3/playlist.m3u8
@@ -184,20 +181,11 @@ https://station1-global.ebaclofen.org/live/85edef980123bc277eeac4e73653b9b3/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1fe75f826dab40e6e89cbe961c7e9116.png" group-title="Vua Sân Cỏ TV" , 🟢 02:30 17/08 ⚽ Sporting Braga vs Gil Vicente (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/f06aefe01136afc3abb6e251bbf2575c/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c6c5bb133999f12570e9c2dd4b1d69a6.png" group-title="Vua Sân Cỏ TV" , 🟡 21:30 18/08 ⚽ Scolar Resita vs Petrolul Ploiesti (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/b9a7c43ca17962305cd6cad7617f39ca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fe138ef80fc8e5cb7a6ac6ebe754cd98.png" group-title="Vua Sân Cỏ TV" , 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fergana (Nhà Đài 1) 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fe138ef80fc8e5cb7a6ac6ebe754cd98.png" group-title="Vua Sân Cỏ TV" , 🟡 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fergana (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/8332496330f3acc793094024af44bff5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/01150b3dc21b42e0d948e677bc25165c.png" group-title="Vua Sân Cỏ TV" , 22:00 18/08 ⚽ Topolcany vs Banik Lehota Pod Vtacnikom (Nhà Đài 1) 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/01150b3dc21b42e0d948e677bc25165c.png" group-title="Vua Sân Cỏ TV" , 🟡 22:00 18/08 ⚽ Topolcany vs Banik Lehota Pod Vtacnikom (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/fee42801bad4c88a52dcc233c6d519b7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f5ff010dcc2e753de549a98ba989e356.png" group-title="Vua Sân Cỏ TV" , 22:30 18/08 ⚽ Rodina Moscow vs Gazovik Orenburg (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/054eb361bc8946940130c442c1d8a59b/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e9ee766ede3d5f9f0e70baaf251b5549.png" group-title="Vua Sân Cỏ TV" , 22:30 18/08 ⚽ Pirin Blagoevgrad vs FC Hebar Pazardzhik (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/5d5c3e691bbb3db3bcb50a74665be197/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1eae81e51945df5660e24dc6f0ea353c.png" group-title="Vua Sân Cỏ TV" , * 22:30 18/08 ⚽ CSKA Moscow vs Akron Togliatti (Lý Trị) 
 https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
@@ -205,17 +193,17 @@ https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1eae81e51945df5660e24dc6f0ea353c.png" group-title="Vua Sân Cỏ TV" , 22:30 18/08 ⚽ CSKA Moscow vs Akron Togliatti (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/4033fdeab5956724e5d8482a2b89edc1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f5ff010dcc2e753de549a98ba989e356.png" group-title="Vua Sân Cỏ TV" , 22:30 18/08 ⚽ Rodina Moscow vs Gazovik Orenburg (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/054eb361bc8946940130c442c1d8a59b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e9ee766ede3d5f9f0e70baaf251b5549.png" group-title="Vua Sân Cỏ TV" , 22:30 18/08 ⚽ Pirin Blagoevgrad vs FC Hebar Pazardzhik (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/5d5c3e691bbb3db3bcb50a74665be197/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/09645e4b4538fcbe06e5a64ecfd40fd5.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Estrela FC U23 vs Leixoes U23 (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/10c32633541a5d46112d1b90645a7817/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b39d3c74dea7f5c47361e7733c1932b2.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Torreense U23 vs Portimonense U23 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/90511f4f4daf366765483fdb33fa4e4e/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/dc067cd47969d48c3b6001d9350be407.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Vizela U23 vs Sporting CP U23 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/12ee4cb5d3c7244b645b551a174a514d/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/71fc6cf6d852d63fd4a4c6aa42337a3c.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Atromitos Athens vs Pyrgos AFC (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/ef81041b6549fcfa04ec63e3383b15f1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cafffa2ecdd4dcd266fd406ef8491265.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Gil Vicente U23 vs Academico Viseu U23 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/d287bbc53d7f617ec8fab6bbac6d91e6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/65ee743f20fa7db286fdeda4d33c6980.png" group-title="Vua Sân Cỏ TV" , * 23:00 18/08 ⚽ 1. FC Heidenheim 1846 vs FC Bayern Munich (Trần Hoàng) 
 https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
@@ -223,8 +211,14 @@ https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/65ee743f20fa7db286fdeda4d33c6980.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ 1. FC Heidenheim 1846 vs FC Bayern Munich (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/37ebc60681e4790dad3944a169164c29/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cafffa2ecdd4dcd266fd406ef8491265.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Gil Vicente U23 vs Academico Viseu U23 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/d287bbc53d7f617ec8fab6bbac6d91e6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/dc067cd47969d48c3b6001d9350be407.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Vizela U23 vs Sporting CP U23 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/12ee4cb5d3c7244b645b551a174a514d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/71fc6cf6d852d63fd4a4c6aa42337a3c.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Atromitos Athens vs Pyrgos AFC (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/ef81041b6549fcfa04ec63e3383b15f1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b39d3c74dea7f5c47361e7733c1932b2.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Torreense U23 vs Portimonense U23 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/90511f4f4daf366765483fdb33fa4e4e/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/47edbc8776467d4a14314c82b25344ab.png" group-title="Vua Sân Cỏ TV" , * 23:05 18/08 ⚽ Al Okhdood vs Al Khaleej Club (Lê Hoàn) 
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
@@ -244,17 +238,8 @@ https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fde877e452f79f75955ad4e4f326c654.png" group-title="Vua Sân Cỏ TV" , 23:15 18/08 ⚽ Al Najma(KSA) vs Al Ittihad Club (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/7b6f7b3fd47976c51bdf7e4817119638/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/00d52f0237cf63033ce401fda4ea5c11.jpg" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ Sollentuna United vs Orebro (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/9c3940ec4085aa40239ca50ee14f6427/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e4b62430db3cd03110c937fc0aa670a5.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ IFK Skovde FK vs Falkenberg (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/5316707acfae4382fbc55473d2253b92/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6335b3dfbb904f58db02f644658a8c22.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ Vastra Frolunda vs Elfsborg (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/7f40f6f4c3f4f2097370a1153a0a3e4b/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3d52360fe5fd62c7542106374d34cf2b.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ PollZ vs Varbergs BoIS FC (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/5b1151d0d025fe7ec028db961c938380/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3bffd1027e4815e64cb737271623595d.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ AFC Eskilstuna vs IK Oddevold (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/d4d350fe7645125154e64e95c409fa6e/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/bdf69c486a1262693c151f73ff9f4a3d.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ Ironi Modiin vs Maccabi Herzliya (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/6d18ce762c7f7c89d5c11b0f3a3a2527/playlist.m3u8
@@ -262,14 +247,23 @@ https://station1-global.ebaclofen.org/live/6d18ce762c7f7c89d5c11b0f3a3a2527/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/729404b28f3bd32761c667a668453f4c.jpg" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ IF Karlstad Fotboll vs Sandvikens IF (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/3b3c0832b35fb79f72e0128584fc4306/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/00d52f0237cf63033ce401fda4ea5c11.jpg" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ Sollentuna United vs Orebro (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/9c3940ec4085aa40239ca50ee14f6427/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3d52360fe5fd62c7542106374d34cf2b.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ PollZ vs Varbergs BoIS FC (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/5b1151d0d025fe7ec028db961c938380/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e4b62430db3cd03110c937fc0aa670a5.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ IFK Skovde FK vs Falkenberg (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/5316707acfae4382fbc55473d2253b92/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/19645dbe5cc836759c3288573d1f312e.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ Karlbergs BK vs IK Brage (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/271c88dd3ca996aaa10b7741dc16ddd0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c8f2f74d4d5a33bbef46d9a6c69e8dc6.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ Hapoel Rishon Lezion vs Hapoel Kfar Saba (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/f0a01c40699fc99d8c7184244164e60d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3bffd1027e4815e64cb737271623595d.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ AFC Eskilstuna vs IK Oddevold (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/d4d350fe7645125154e64e95c409fa6e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6335b3dfbb904f58db02f644658a8c22.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ Vastra Frolunda vs Elfsborg (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/7f40f6f4c3f4f2097370a1153a0a3e4b/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6a5db2a66428a695a9060d9accac6e6d.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ Maccabi Bnei Reineh vs Bnei Yehuda Tel Aviv (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/5b92c0269f3483a5955684d5eeb14ba5/playlist.m3u8
@@ -283,17 +277,20 @@ https://station1-global.ebaclofen.org/live/10842196a2e80e8021a719b7227fb434/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png" group-title="Vua Sân Cỏ TV" , 00:45 19/08 ⚽ FK Rostov vs Lokomotiv Moscow (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/451ba9eb6688a90b5dada77d4c234275/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e21ec99e42495e54a8eef351416d007c.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Hornchurch vs Norwich City U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/6129fd2dbc228d185a20c5d9c5d0f8f3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7379ecf00076db5893fe66a16873cce2.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Claypole vs Mercedes (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/e3d102e86c6536dcea7812c1fd27ab42/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/50291f94d2432b2a513bf84e652a36ca.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Boston United vs Birmingham U21 (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/b40234e2a764604c5b159b5a06cf8735/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e7f6f7ed23a2fd59cdf1c417d0519598.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Scunthorpe United vs Stoke City U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/14359fd774593185bff3f93eb0c6771e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e848164e81d295da998745344445f45e.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Sutton United vs Leicester City U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/e64659d9c3372d79aad49a82e6972051/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e59104705d4001fdb1824d1fd8734d0d.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Wealdstone FC vs Wolverhampton U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/c494c9d5a5ce276fa3100a4bf0f52f05/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e21ec99e42495e54a8eef351416d007c.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Hornchurch vs Norwich City U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/6129fd2dbc228d185a20c5d9c5d0f8f3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d76fda2d2c1bb60532a2194d027bb4a8.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Levadiakos vs Asteras Aktor (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/8288892183606f6c3f35b04ae8dfad44/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/ecb7f0a3b58c3e6c3e6f42b8be226e20.png" group-title="Vua Sân Cỏ TV" , * 01:00 19/08 ⚽ Al Diraiyah vs Al Nassr FC (Lưu Bang) 
 https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
@@ -301,20 +298,26 @@ https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/ecb7f0a3b58c3e6c3e6f42b8be226e20.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Al Diraiyah vs Al Nassr FC (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/94916d5b0d749061c2e4030f8b77cd6c/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f3d757008e3ba9faa8c2f522ceeaa966.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Solihull Moors vs Middlesbrough U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/80da2afaa797a9ce2028486f6bba20d0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fbcd7d9ca422e175537bee00633d18de.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Gateshead vs Nottingham Forest U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/ec5faa981d9d6b41b9fb6b1befa4e170/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e848164e81d295da998745344445f45e.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Sutton United vs Leicester City U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/e64659d9c3372d79aad49a82e6972051/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7379ecf00076db5893fe66a16873cce2.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Claypole vs Mercedes (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/e3d102e86c6536dcea7812c1fd27ab42/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3efe2a509f94a3b62ff2ffe737974420.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Boreham Wood vs Leeds United U21 (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/6ab9cf8e9a28a6266b7a53fe1dc18fce/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fbcd7d9ca422e175537bee00633d18de.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Gateshead vs Nottingham Forest U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/ec5faa981d9d6b41b9fb6b1befa4e170/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4fa7c62536118cc404dec4a0ca88d4f6.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Halifax Town vs Derby County U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/d8afdea41ed8cfa62ee961472d26efb8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d76fda2d2c1bb60532a2194d027bb4a8.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Levadiakos vs Asteras Aktor (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/8288892183606f6c3f35b04ae8dfad44/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1e9a135797a911aeb43afb5577e28575.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Truro City vs Southampton U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/a343a01f54cf9db7fe88413f17b8b542/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e7f6f7ed23a2fd59cdf1c417d0519598.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Scunthorpe United vs Stoke City U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/14359fd774593185bff3f93eb0c6771e/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f3d757008e3ba9faa8c2f522ceeaa966.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Solihull Moors vs Middlesbrough U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/80da2afaa797a9ce2028486f6bba20d0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4e9f55c1006ca24b2b535054a52187e8.png" group-title="Vua Sân Cỏ TV" , * 01:00 19/08 ⚽ Al-Faisaly Harmah vs NEOM Sports Club (Tào Phi) 
 https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
@@ -322,29 +325,14 @@ https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4e9f55c1006ca24b2b535054a52187e8.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Al-Faisaly Harmah vs NEOM Sports Club (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/2b273b3132432f153d98acd2b88a0f8d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e59104705d4001fdb1824d1fd8734d0d.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Wealdstone FC vs Wolverhampton U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/c494c9d5a5ce276fa3100a4bf0f52f05/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1e9a135797a911aeb43afb5577e28575.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Truro City vs Southampton U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/a343a01f54cf9db7fe88413f17b8b542/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4fa7c62536118cc404dec4a0ca88d4f6.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Halifax Town vs Derby County U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/d8afdea41ed8cfa62ee961472d26efb8/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/abfe281c05f907b140bb6796f0c70dd6.png" group-title="Vua Sân Cỏ TV" , 01:30 19/08 ⚽ Braintree Town vs Ipswich U21 (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/fe2ea72873f9947656587afcb0c1078a/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/9b7ab6b2bde9214f1ba74c1342786f26.png" group-title="Vua Sân Cỏ TV" , 01:45 19/08 ⚽ Tamworth vs Newcastle U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/db51e2797c11b5762be2cad752e4857b/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a15652d57136b1eedcd871e69943e6a8.png" group-title="Vua Sân Cỏ TV" , 01:45 19/08 ⚽ Aldershot Town vs Fulham U21 (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/d4fbea849bd6cdd6536ba1419a284abb/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/edc92b9e77bc242d84f4d1332d09d311.png" group-title="Vua Sân Cỏ TV" , 02:00 19/08 ⚽ Farense U23 vs Estoril U23 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/ab2d65cae5777b069890b945bc2edba3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cddcef15578553ba62ac2719fce6aead.png" group-title="Vua Sân Cỏ TV" , 02:00 19/08 ⚽ San Antonio Bulo Bulo vs Aurora (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/00bb1c5e21ffda440e05d3de97580b49/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/9b7ab6b2bde9214f1ba74c1342786f26.png" group-title="Vua Sân Cỏ TV" , 01:45 19/08 ⚽ Tamworth vs Newcastle U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/db51e2797c11b5762be2cad752e4857b/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/dff00f1fd4a7dd2feac000b462416867.png" group-title="Vua Sân Cỏ TV" , * 02:00 19/08 ⚽ Fenerbahce vs Lyon (Dương Kiên) 
 https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
@@ -352,11 +340,8 @@ https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/dff00f1fd4a7dd2feac000b462416867.png" group-title="Vua Sân Cỏ TV" , 02:00 19/08 ⚽ Fenerbahce vs Lyon (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/c566fc96509e483015de4cd7c90966fc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png" group-title="Vua Sân Cỏ TV" , * 02:00 19/08 ⚽ Dinamo Zagreb vs Viking (Tôn Quyền) 
-https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png" group-title="Vua Sân Cỏ TV" , 02:00 19/08 ⚽ Dinamo Zagreb vs Viking (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/824071ab3c2c08fbcace7c93f72783eb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/edc92b9e77bc242d84f4d1332d09d311.png" group-title="Vua Sân Cỏ TV" , 02:00 19/08 ⚽ Farense U23 vs Estoril U23 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/ab2d65cae5777b069890b945bc2edba3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fe56623a71d6056e9e1a93a6241e033f.png" group-title="Vua Sân Cỏ TV" , * 02:00 19/08 ⚽ Levski Sofia vs AEK Athens (Lưu Triệt) 
 https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
@@ -364,26 +349,35 @@ https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fe56623a71d6056e9e1a93a6241e033f.png" group-title="Vua Sân Cỏ TV" , 02:00 19/08 ⚽ Levski Sofia vs AEK Athens (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/53888ebe869659f68069f527527d85be/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cddcef15578553ba62ac2719fce6aead.png" group-title="Vua Sân Cỏ TV" , 02:00 19/08 ⚽ San Antonio Bulo Bulo vs Aurora (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/00bb1c5e21ffda440e05d3de97580b49/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png" group-title="Vua Sân Cỏ TV" , * 02:00 19/08 ⚽ Dinamo Zagreb vs Viking (Tôn Quyền) 
+https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png" group-title="Vua Sân Cỏ TV" , 02:00 19/08 ⚽ Dinamo Zagreb vs Viking (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/824071ab3c2c08fbcace7c93f72783eb/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cd0afe31f3292a6620ab382aa0716d7a.png" group-title="Vua Sân Cỏ TV" , 02:30 19/08 ⚽ Benjamin Aceval vs FC Nacional Asuncion (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/839eaa7d639a0eb4c63f4f1999589347/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b9eb3a2ccc44b65d7bd365ad417ddb04.png" group-title="Vua Sân Cỏ TV" , 03:00 19/08 ⚽ Deportivo Riestra vs Gimnasia La Plata (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/7006aa21d0d3a17e3c3c6f42b412b2fe/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d390f3b4be2499face8eb4af0e73140e.png" group-title="Vua Sân Cỏ TV" , 05:00 19/08 ⚽ Club Guabira vs Universitario De Vinto (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/3cf4b173ca650fb2407cdbca95122e57/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f7e33bab2469f4e5b80d4d47cd92b381.png" group-title="Vua Sân Cỏ TV" , 05:00 19/08 ⚽ Deportivo Recoleta vs Boca Juniors (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/01796a4d8851a95569b1280a5fa67d04/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/bd204b38f3037dcd4478b7782e08519c.png" group-title="Vua Sân Cỏ TV" , 05:00 19/08 ⚽ Mount Pleasant FA vs Cibao FC (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/1a747fcddf2be0fff1bb9b810541a89a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d390f3b4be2499face8eb4af0e73140e.png" group-title="Vua Sân Cỏ TV" , 05:00 19/08 ⚽ Club Guabira vs Universitario De Vinto (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/3cf4b173ca650fb2407cdbca95122e57/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7e779bba58b944c8cfa786d857430383.png" group-title="Vua Sân Cỏ TV" , * 05:00 19/08 ⚽ Independiente Rivadavia vs Fluminense _ RJ (Doanh Chính) 
 https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7e779bba58b944c8cfa786d857430383.png" group-title="Vua Sân Cỏ TV" , 05:00 19/08 ⚽ Independiente Rivadavia vs Fluminense _ RJ (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/7e8a4d3f71a078cb41763ef26d3c2356/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/bd204b38f3037dcd4478b7782e08519c.png" group-title="Vua Sân Cỏ TV" , 05:00 19/08 ⚽ Mount Pleasant FA vs Cibao FC (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/1a747fcddf2be0fff1bb9b810541a89a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/9d3195be22d95cf5d35790272afc724a.png" group-title="Vua Sân Cỏ TV" , 05:30 19/08 ⚽ Londrina PR vs Atletico Clube Goianiense (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/8b0849d0c2a4661efa30bb80152b6ca0/playlist.m3u8
@@ -397,17 +391,17 @@ https://station1-global.ebaclofen.org/live/bbefc77c6459bb2a325a056535d08b7c/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e142922645466d58b5ad3a27570b5ac5.png" group-title="Vua Sân Cỏ TV" , 07:15 19/08 ⚽ Banfield vs Ferrocarril Midland (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/c8feaddda866f0551442d626c22a504c/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/31f5171de0e1404fdebcef19cd7cd409.png" group-title="Vua Sân Cỏ TV" , 07:30 19/08 ⚽ São Paulo _ SP vs Bolivar (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/d36ead2961e9d3c3ebdef485ff40d8ec/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1d8d54bfe19b8bfd6d064eda3556f812.png" group-title="Vua Sân Cỏ TV" , 07:30 19/08 ⚽ Nautico (PE) vs Ceara (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/878ebcc17d8b91b92f09df57c4b06132/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d2c51e33f6e7a7a3eed10d03fdb9ffb8.png" group-title="Vua Sân Cỏ TV" , * 07:30 19/08 ⚽ Univ Catolica vs Estudiantes La Plata (Doanh Chính) 
 https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d2c51e33f6e7a7a3eed10d03fdb9ffb8.png" group-title="Vua Sân Cỏ TV" , 07:30 19/08 ⚽ Univ Catolica vs Estudiantes La Plata (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/2c9fc2255ee11bbbda816120a5545bb2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1d8d54bfe19b8bfd6d064eda3556f812.png" group-title="Vua Sân Cỏ TV" , 07:30 19/08 ⚽ Nautico (PE) vs Ceara (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/878ebcc17d8b91b92f09df57c4b06132/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/31f5171de0e1404fdebcef19cd7cd409.png" group-title="Vua Sân Cỏ TV" , 07:30 19/08 ⚽ São Paulo _ SP vs Bolivar (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/d36ead2961e9d3c3ebdef485ff40d8ec/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/86cb19586d66a7d65de64a3bad288c1f.png" group-title="Vua Sân Cỏ TV" , 07:35 19/08 ⚽ Goiás EC vs Juventude (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/5914253194eada9dc16b92ad57c4a0e1/playlist.m3u8
@@ -415,11 +409,11 @@ https://station1-global.ebaclofen.org/live/5914253194eada9dc16b92ad57c4a0e1/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/9699f5f6a3261c965e09361142dbbdc9.png" group-title="Vua Sân Cỏ TV" , 08:00 19/08 ⚽ CS Cartagines vs Hankook Verdes (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/3d4908c8354183a2768de5a06faa12d2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b0ec985cd57cba37048de614c46660e5.png" group-title="Vua Sân Cỏ TV" , 10:00 19/08 ⚽ Xelaju MC vs Diriangen (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/eb925e3fb6c077df66cde044df115454/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/35471db87e4db1631fafc7aa8021dbba.png" group-title="Vua Sân Cỏ TV" , 10:00 19/08 ⚽ Real Esteli vs CS Herediano (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/edbaf8429392769e7ee83fb89f32dd6d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b0ec985cd57cba37048de614c46660e5.png" group-title="Vua Sân Cỏ TV" , 10:00 19/08 ⚽ Xelaju MC vs Diriangen (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/eb925e3fb6c077df66cde044df115454/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/5e7f98b3e6dba2955758797b84e94868.png" group-title="Vua Sân Cỏ TV" , * 16:30 19/08 ⚽ APIA Leichhardt Tigers vs Melbourne Victory (Tôn Quyền) 
 https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
@@ -448,11 +442,8 @@ https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/ad6d65af610226d028067171bfb6839d.png" group-title="Vua Sân Cỏ TV" , * 23:30 19/08 ⚽ Jeddah Sports Club vs Al Kholood (Lý Trị) 
 https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a9768a6c383d8d91f84fdc876da2a862.png" group-title="Vua Sân Cỏ TV" , 🟢 19:00 18/08 ⚽ Bristol City U21 vs Wigan Athletic U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/3ded3b80afc0982573ec3371eb0ff834/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a9768a6c383d8d91f84fdc876da2a862.png" group-title="Vua Sân Cỏ TV" , 🟢 19:00 18/08 ⚽ Bristol City U21 vs Wigan Athletic U21 (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-2f963a737b27d1f1ccad/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/09fe2ecf88f68970da755f8655d5da8a.png" group-title="Vua Sân Cỏ TV" , 🟢 19:30 18/08 ⚽ Bali United vs Persib Bandung (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/a92d054e084223539a7eed6e2254944a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/43b2dd1c93748297cfbbea4d31247641.png" group-title="Vua Sân Cỏ TV" , 🟢 * 20:00 18/08 ⚽ Thailand vs Singapore (Lưu Triệt) 
 https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
@@ -472,26 +463,20 @@ https://station1-global.ebaclofen.org/live/8a564c03fcfbb6f6a81b2ad7ed0edd06/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d764dd4b7db966672b35de808751b9f0.png" group-title="Vua Sân Cỏ TV" , 🟢 20:15 18/08 ⚽ Charlton Athletic U21 vs Bolton Wanderers U21 (Nhà Đài 2) 
 https://hls.streamhub.media/hls/thesport-api-8a45297393843345e645/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7b9d42db01009692077178915f9c1623.png" group-title="Vua Sân Cỏ TV" , 🟡 21:00 18/08 ⚽ Regar-TadAZ Tursunzoda vs FK Parvoz Bobojon Ghafurov (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/0d813a85382d3fb3a897448703e43bca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0eff3f54d4407ac2e90783bc6654e657.png" group-title="Vua Sân Cỏ TV" , 🟡 21:00 18/08 ⚽ Sogdiana Jizak vs Qizilqum Zarafshon (Nhà Đài 1) 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0eff3f54d4407ac2e90783bc6654e657.png" group-title="Vua Sân Cỏ TV" , 🟢 21:00 18/08 ⚽ Sogdiana Jizak vs Qizilqum Zarafshon (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/7f8e162bc9d27158f96b8c1e61b900f0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7b9d42db01009692077178915f9c1623.png" group-title="Vua Sân Cỏ TV" , 🟢 21:00 18/08 ⚽ Regar-TadAZ Tursunzoda vs FK Parvoz Bobojon Ghafurov (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/0d813a85382d3fb3a897448703e43bca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c6c5bb133999f12570e9c2dd4b1d69a6.png" group-title="Vua Sân Cỏ TV" , 🟡 21:30 18/08 ⚽ Scolar Resita vs Petrolul Ploiesti (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/b9a7c43ca17962305cd6cad7617f39ca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fe138ef80fc8e5cb7a6ac6ebe754cd98.png" group-title="Vua Sân Cỏ TV" , 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fergana (Nhà Đài 1) 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fe138ef80fc8e5cb7a6ac6ebe754cd98.png" group-title="Vua Sân Cỏ TV" , 🟡 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fergana (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/8332496330f3acc793094024af44bff5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/01150b3dc21b42e0d948e677bc25165c.png" group-title="Vua Sân Cỏ TV" , 22:00 18/08 ⚽ Topolcany vs Banik Lehota Pod Vtacnikom (Nhà Đài 1) 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/01150b3dc21b42e0d948e677bc25165c.png" group-title="Vua Sân Cỏ TV" , 🟡 22:00 18/08 ⚽ Topolcany vs Banik Lehota Pod Vtacnikom (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/fee42801bad4c88a52dcc233c6d519b7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f5ff010dcc2e753de549a98ba989e356.png" group-title="Vua Sân Cỏ TV" , 22:30 18/08 ⚽ Rodina Moscow vs Gazovik Orenburg (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/054eb361bc8946940130c442c1d8a59b/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e9ee766ede3d5f9f0e70baaf251b5549.png" group-title="Vua Sân Cỏ TV" , 22:30 18/08 ⚽ Pirin Blagoevgrad vs FC Hebar Pazardzhik (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/5d5c3e691bbb3db3bcb50a74665be197/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1eae81e51945df5660e24dc6f0ea353c.png" group-title="Vua Sân Cỏ TV" , * 22:30 18/08 ⚽ CSKA Moscow vs Akron Togliatti (Lý Trị) 
 https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
@@ -499,17 +484,17 @@ https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1eae81e51945df5660e24dc6f0ea353c.png" group-title="Vua Sân Cỏ TV" , 22:30 18/08 ⚽ CSKA Moscow vs Akron Togliatti (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/4033fdeab5956724e5d8482a2b89edc1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f5ff010dcc2e753de549a98ba989e356.png" group-title="Vua Sân Cỏ TV" , 22:30 18/08 ⚽ Rodina Moscow vs Gazovik Orenburg (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/054eb361bc8946940130c442c1d8a59b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e9ee766ede3d5f9f0e70baaf251b5549.png" group-title="Vua Sân Cỏ TV" , 22:30 18/08 ⚽ Pirin Blagoevgrad vs FC Hebar Pazardzhik (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/5d5c3e691bbb3db3bcb50a74665be197/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/09645e4b4538fcbe06e5a64ecfd40fd5.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Estrela FC U23 vs Leixoes U23 (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/10c32633541a5d46112d1b90645a7817/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b39d3c74dea7f5c47361e7733c1932b2.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Torreense U23 vs Portimonense U23 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/90511f4f4daf366765483fdb33fa4e4e/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/dc067cd47969d48c3b6001d9350be407.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Vizela U23 vs Sporting CP U23 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/12ee4cb5d3c7244b645b551a174a514d/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/71fc6cf6d852d63fd4a4c6aa42337a3c.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Atromitos Athens vs Pyrgos AFC (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/ef81041b6549fcfa04ec63e3383b15f1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cafffa2ecdd4dcd266fd406ef8491265.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Gil Vicente U23 vs Academico Viseu U23 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/d287bbc53d7f617ec8fab6bbac6d91e6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/65ee743f20fa7db286fdeda4d33c6980.png" group-title="Vua Sân Cỏ TV" , * 23:00 18/08 ⚽ 1. FC Heidenheim 1846 vs FC Bayern Munich (Trần Hoàng) 
 https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
@@ -517,8 +502,14 @@ https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/65ee743f20fa7db286fdeda4d33c6980.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ 1. FC Heidenheim 1846 vs FC Bayern Munich (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/37ebc60681e4790dad3944a169164c29/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cafffa2ecdd4dcd266fd406ef8491265.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Gil Vicente U23 vs Academico Viseu U23 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/d287bbc53d7f617ec8fab6bbac6d91e6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/dc067cd47969d48c3b6001d9350be407.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Vizela U23 vs Sporting CP U23 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/12ee4cb5d3c7244b645b551a174a514d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/71fc6cf6d852d63fd4a4c6aa42337a3c.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Atromitos Athens vs Pyrgos AFC (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/ef81041b6549fcfa04ec63e3383b15f1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b39d3c74dea7f5c47361e7733c1932b2.png" group-title="Vua Sân Cỏ TV" , 23:00 18/08 ⚽ Torreense U23 vs Portimonense U23 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/90511f4f4daf366765483fdb33fa4e4e/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/47edbc8776467d4a14314c82b25344ab.png" group-title="Vua Sân Cỏ TV" , * 23:05 18/08 ⚽ Al Okhdood vs Al Khaleej Club (Lê Hoàn) 
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
@@ -538,17 +529,8 @@ https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fde877e452f79f75955ad4e4f326c654.png" group-title="Vua Sân Cỏ TV" , 23:15 18/08 ⚽ Al Najma(KSA) vs Al Ittihad Club (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/7b6f7b3fd47976c51bdf7e4817119638/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/00d52f0237cf63033ce401fda4ea5c11.jpg" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ Sollentuna United vs Orebro (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/9c3940ec4085aa40239ca50ee14f6427/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e4b62430db3cd03110c937fc0aa670a5.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ IFK Skovde FK vs Falkenberg (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/5316707acfae4382fbc55473d2253b92/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6335b3dfbb904f58db02f644658a8c22.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ Vastra Frolunda vs Elfsborg (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/7f40f6f4c3f4f2097370a1153a0a3e4b/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3d52360fe5fd62c7542106374d34cf2b.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ PollZ vs Varbergs BoIS FC (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/5b1151d0d025fe7ec028db961c938380/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3bffd1027e4815e64cb737271623595d.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ AFC Eskilstuna vs IK Oddevold (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/d4d350fe7645125154e64e95c409fa6e/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/bdf69c486a1262693c151f73ff9f4a3d.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ Ironi Modiin vs Maccabi Herzliya (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/6d18ce762c7f7c89d5c11b0f3a3a2527/playlist.m3u8
@@ -556,14 +538,23 @@ https://station1-global.ebaclofen.org/live/6d18ce762c7f7c89d5c11b0f3a3a2527/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/729404b28f3bd32761c667a668453f4c.jpg" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ IF Karlstad Fotboll vs Sandvikens IF (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/3b3c0832b35fb79f72e0128584fc4306/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/00d52f0237cf63033ce401fda4ea5c11.jpg" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ Sollentuna United vs Orebro (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/9c3940ec4085aa40239ca50ee14f6427/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3d52360fe5fd62c7542106374d34cf2b.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ PollZ vs Varbergs BoIS FC (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/5b1151d0d025fe7ec028db961c938380/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e4b62430db3cd03110c937fc0aa670a5.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ IFK Skovde FK vs Falkenberg (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/5316707acfae4382fbc55473d2253b92/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/19645dbe5cc836759c3288573d1f312e.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ Karlbergs BK vs IK Brage (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/271c88dd3ca996aaa10b7741dc16ddd0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c8f2f74d4d5a33bbef46d9a6c69e8dc6.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ Hapoel Rishon Lezion vs Hapoel Kfar Saba (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/f0a01c40699fc99d8c7184244164e60d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3bffd1027e4815e64cb737271623595d.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ AFC Eskilstuna vs IK Oddevold (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/d4d350fe7645125154e64e95c409fa6e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6335b3dfbb904f58db02f644658a8c22.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ Vastra Frolunda vs Elfsborg (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/7f40f6f4c3f4f2097370a1153a0a3e4b/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6a5db2a66428a695a9060d9accac6e6d.png" group-title="Vua Sân Cỏ TV" , 23:30 18/08 ⚽ Maccabi Bnei Reineh vs Bnei Yehuda Tel Aviv (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/5b92c0269f3483a5955684d5eeb14ba5/playlist.m3u8
@@ -577,17 +568,20 @@ https://station1-global.ebaclofen.org/live/10842196a2e80e8021a719b7227fb434/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png" group-title="Vua Sân Cỏ TV" , 00:45 19/08 ⚽ FK Rostov vs Lokomotiv Moscow (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/451ba9eb6688a90b5dada77d4c234275/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e21ec99e42495e54a8eef351416d007c.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Hornchurch vs Norwich City U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/6129fd2dbc228d185a20c5d9c5d0f8f3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7379ecf00076db5893fe66a16873cce2.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Claypole vs Mercedes (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/e3d102e86c6536dcea7812c1fd27ab42/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/50291f94d2432b2a513bf84e652a36ca.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Boston United vs Birmingham U21 (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/b40234e2a764604c5b159b5a06cf8735/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e7f6f7ed23a2fd59cdf1c417d0519598.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Scunthorpe United vs Stoke City U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/14359fd774593185bff3f93eb0c6771e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e848164e81d295da998745344445f45e.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Sutton United vs Leicester City U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/e64659d9c3372d79aad49a82e6972051/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e59104705d4001fdb1824d1fd8734d0d.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Wealdstone FC vs Wolverhampton U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/c494c9d5a5ce276fa3100a4bf0f52f05/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e21ec99e42495e54a8eef351416d007c.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Hornchurch vs Norwich City U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/6129fd2dbc228d185a20c5d9c5d0f8f3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d76fda2d2c1bb60532a2194d027bb4a8.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Levadiakos vs Asteras Aktor (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/8288892183606f6c3f35b04ae8dfad44/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/ecb7f0a3b58c3e6c3e6f42b8be226e20.png" group-title="Vua Sân Cỏ TV" , * 01:00 19/08 ⚽ Al Diraiyah vs Al Nassr FC (Lưu Bang) 
 https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
@@ -595,20 +589,26 @@ https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/ecb7f0a3b58c3e6c3e6f42b8be226e20.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Al Diraiyah vs Al Nassr FC (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/94916d5b0d749061c2e4030f8b77cd6c/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f3d757008e3ba9faa8c2f522ceeaa966.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Solihull Moors vs Middlesbrough U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/80da2afaa797a9ce2028486f6bba20d0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fbcd7d9ca422e175537bee00633d18de.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Gateshead vs Nottingham Forest U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/ec5faa981d9d6b41b9fb6b1befa4e170/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e848164e81d295da998745344445f45e.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Sutton United vs Leicester City U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/e64659d9c3372d79aad49a82e6972051/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7379ecf00076db5893fe66a16873cce2.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Claypole vs Mercedes (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/e3d102e86c6536dcea7812c1fd27ab42/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3efe2a509f94a3b62ff2ffe737974420.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Boreham Wood vs Leeds United U21 (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/6ab9cf8e9a28a6266b7a53fe1dc18fce/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fbcd7d9ca422e175537bee00633d18de.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Gateshead vs Nottingham Forest U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/ec5faa981d9d6b41b9fb6b1befa4e170/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4fa7c62536118cc404dec4a0ca88d4f6.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Halifax Town vs Derby County U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/d8afdea41ed8cfa62ee961472d26efb8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d76fda2d2c1bb60532a2194d027bb4a8.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Levadiakos vs Asteras Aktor (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/8288892183606f6c3f35b04ae8dfad44/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1e9a135797a911aeb43afb5577e28575.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Truro City vs Southampton U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/a343a01f54cf9db7fe88413f17b8b542/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e7f6f7ed23a2fd59cdf1c417d0519598.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Scunthorpe United vs Stoke City U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/14359fd774593185bff3f93eb0c6771e/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f3d757008e3ba9faa8c2f522ceeaa966.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Solihull Moors vs Middlesbrough U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/80da2afaa797a9ce2028486f6bba20d0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4e9f55c1006ca24b2b535054a52187e8.png" group-title="Vua Sân Cỏ TV" , * 01:00 19/08 ⚽ Al-Faisaly Harmah vs NEOM Sports Club (Tào Phi) 
 https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
@@ -616,29 +616,14 @@ https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4e9f55c1006ca24b2b535054a52187e8.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Al-Faisaly Harmah vs NEOM Sports Club (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/2b273b3132432f153d98acd2b88a0f8d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e59104705d4001fdb1824d1fd8734d0d.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Wealdstone FC vs Wolverhampton U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/c494c9d5a5ce276fa3100a4bf0f52f05/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1e9a135797a911aeb43afb5577e28575.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Truro City vs Southampton U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/a343a01f54cf9db7fe88413f17b8b542/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4fa7c62536118cc404dec4a0ca88d4f6.png" group-title="Vua Sân Cỏ TV" , 01:00 19/08 ⚽ Halifax Town vs Derby County U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/d8afdea41ed8cfa62ee961472d26efb8/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/abfe281c05f907b140bb6796f0c70dd6.png" group-title="Vua Sân Cỏ TV" , 01:30 19/08 ⚽ Braintree Town vs Ipswich U21 (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/fe2ea72873f9947656587afcb0c1078a/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/9b7ab6b2bde9214f1ba74c1342786f26.png" group-title="Vua Sân Cỏ TV" , 01:45 19/08 ⚽ Tamworth vs Newcastle U21 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/db51e2797c11b5762be2cad752e4857b/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a15652d57136b1eedcd871e69943e6a8.png" group-title="Vua Sân Cỏ TV" , 01:45 19/08 ⚽ Aldershot Town vs Fulham U21 (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/d4fbea849bd6cdd6536ba1419a284abb/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/edc92b9e77bc242d84f4d1332d09d311.png" group-title="Vua Sân Cỏ TV" , 02:00 19/08 ⚽ Farense U23 vs Estoril U23 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/ab2d65cae5777b069890b945bc2edba3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cddcef15578553ba62ac2719fce6aead.png" group-title="Vua Sân Cỏ TV" , 02:00 19/08 ⚽ San Antonio Bulo Bulo vs Aurora (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/00bb1c5e21ffda440e05d3de97580b49/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/9b7ab6b2bde9214f1ba74c1342786f26.png" group-title="Vua Sân Cỏ TV" , 01:45 19/08 ⚽ Tamworth vs Newcastle U21 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/db51e2797c11b5762be2cad752e4857b/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/dff00f1fd4a7dd2feac000b462416867.png" group-title="Vua Sân Cỏ TV" , * 02:00 19/08 ⚽ Fenerbahce vs Lyon (Dương Kiên) 
 https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
@@ -646,11 +631,8 @@ https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/dff00f1fd4a7dd2feac000b462416867.png" group-title="Vua Sân Cỏ TV" , 02:00 19/08 ⚽ Fenerbahce vs Lyon (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/c566fc96509e483015de4cd7c90966fc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png" group-title="Vua Sân Cỏ TV" , * 02:00 19/08 ⚽ Dinamo Zagreb vs Viking (Tôn Quyền) 
-https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png" group-title="Vua Sân Cỏ TV" , 02:00 19/08 ⚽ Dinamo Zagreb vs Viking (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/824071ab3c2c08fbcace7c93f72783eb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/edc92b9e77bc242d84f4d1332d09d311.png" group-title="Vua Sân Cỏ TV" , 02:00 19/08 ⚽ Farense U23 vs Estoril U23 (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/ab2d65cae5777b069890b945bc2edba3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fe56623a71d6056e9e1a93a6241e033f.png" group-title="Vua Sân Cỏ TV" , * 02:00 19/08 ⚽ Levski Sofia vs AEK Athens (Lưu Triệt) 
 https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
@@ -658,26 +640,35 @@ https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fe56623a71d6056e9e1a93a6241e033f.png" group-title="Vua Sân Cỏ TV" , 02:00 19/08 ⚽ Levski Sofia vs AEK Athens (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/53888ebe869659f68069f527527d85be/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cddcef15578553ba62ac2719fce6aead.png" group-title="Vua Sân Cỏ TV" , 02:00 19/08 ⚽ San Antonio Bulo Bulo vs Aurora (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/00bb1c5e21ffda440e05d3de97580b49/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png" group-title="Vua Sân Cỏ TV" , * 02:00 19/08 ⚽ Dinamo Zagreb vs Viking (Tôn Quyền) 
+https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png" group-title="Vua Sân Cỏ TV" , 02:00 19/08 ⚽ Dinamo Zagreb vs Viking (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/824071ab3c2c08fbcace7c93f72783eb/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cd0afe31f3292a6620ab382aa0716d7a.png" group-title="Vua Sân Cỏ TV" , 02:30 19/08 ⚽ Benjamin Aceval vs FC Nacional Asuncion (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/839eaa7d639a0eb4c63f4f1999589347/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b9eb3a2ccc44b65d7bd365ad417ddb04.png" group-title="Vua Sân Cỏ TV" , 03:00 19/08 ⚽ Deportivo Riestra vs Gimnasia La Plata (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/7006aa21d0d3a17e3c3c6f42b412b2fe/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d390f3b4be2499face8eb4af0e73140e.png" group-title="Vua Sân Cỏ TV" , 05:00 19/08 ⚽ Club Guabira vs Universitario De Vinto (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/3cf4b173ca650fb2407cdbca95122e57/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f7e33bab2469f4e5b80d4d47cd92b381.png" group-title="Vua Sân Cỏ TV" , 05:00 19/08 ⚽ Deportivo Recoleta vs Boca Juniors (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/01796a4d8851a95569b1280a5fa67d04/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/bd204b38f3037dcd4478b7782e08519c.png" group-title="Vua Sân Cỏ TV" , 05:00 19/08 ⚽ Mount Pleasant FA vs Cibao FC (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/1a747fcddf2be0fff1bb9b810541a89a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d390f3b4be2499face8eb4af0e73140e.png" group-title="Vua Sân Cỏ TV" , 05:00 19/08 ⚽ Club Guabira vs Universitario De Vinto (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/3cf4b173ca650fb2407cdbca95122e57/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7e779bba58b944c8cfa786d857430383.png" group-title="Vua Sân Cỏ TV" , * 05:00 19/08 ⚽ Independiente Rivadavia vs Fluminense _ RJ (Doanh Chính) 
 https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7e779bba58b944c8cfa786d857430383.png" group-title="Vua Sân Cỏ TV" , 05:00 19/08 ⚽ Independiente Rivadavia vs Fluminense _ RJ (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/7e8a4d3f71a078cb41763ef26d3c2356/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/bd204b38f3037dcd4478b7782e08519c.png" group-title="Vua Sân Cỏ TV" , 05:00 19/08 ⚽ Mount Pleasant FA vs Cibao FC (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/1a747fcddf2be0fff1bb9b810541a89a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/9d3195be22d95cf5d35790272afc724a.png" group-title="Vua Sân Cỏ TV" , 05:30 19/08 ⚽ Londrina PR vs Atletico Clube Goianiense (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/8b0849d0c2a4661efa30bb80152b6ca0/playlist.m3u8
@@ -691,17 +682,17 @@ https://station1-global.ebaclofen.org/live/bbefc77c6459bb2a325a056535d08b7c/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e142922645466d58b5ad3a27570b5ac5.png" group-title="Vua Sân Cỏ TV" , 07:15 19/08 ⚽ Banfield vs Ferrocarril Midland (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/c8feaddda866f0551442d626c22a504c/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/31f5171de0e1404fdebcef19cd7cd409.png" group-title="Vua Sân Cỏ TV" , 07:30 19/08 ⚽ São Paulo _ SP vs Bolivar (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/d36ead2961e9d3c3ebdef485ff40d8ec/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1d8d54bfe19b8bfd6d064eda3556f812.png" group-title="Vua Sân Cỏ TV" , 07:30 19/08 ⚽ Nautico (PE) vs Ceara (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/878ebcc17d8b91b92f09df57c4b06132/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d2c51e33f6e7a7a3eed10d03fdb9ffb8.png" group-title="Vua Sân Cỏ TV" , * 07:30 19/08 ⚽ Univ Catolica vs Estudiantes La Plata (Doanh Chính) 
 https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d2c51e33f6e7a7a3eed10d03fdb9ffb8.png" group-title="Vua Sân Cỏ TV" , 07:30 19/08 ⚽ Univ Catolica vs Estudiantes La Plata (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/2c9fc2255ee11bbbda816120a5545bb2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1d8d54bfe19b8bfd6d064eda3556f812.png" group-title="Vua Sân Cỏ TV" , 07:30 19/08 ⚽ Nautico (PE) vs Ceara (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/878ebcc17d8b91b92f09df57c4b06132/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/31f5171de0e1404fdebcef19cd7cd409.png" group-title="Vua Sân Cỏ TV" , 07:30 19/08 ⚽ São Paulo _ SP vs Bolivar (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/d36ead2961e9d3c3ebdef485ff40d8ec/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/86cb19586d66a7d65de64a3bad288c1f.png" group-title="Vua Sân Cỏ TV" , 07:35 19/08 ⚽ Goiás EC vs Juventude (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/5914253194eada9dc16b92ad57c4a0e1/playlist.m3u8
@@ -709,11 +700,11 @@ https://station1-global.ebaclofen.org/live/5914253194eada9dc16b92ad57c4a0e1/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/9699f5f6a3261c965e09361142dbbdc9.png" group-title="Vua Sân Cỏ TV" , 08:00 19/08 ⚽ CS Cartagines vs Hankook Verdes (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/3d4908c8354183a2768de5a06faa12d2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b0ec985cd57cba37048de614c46660e5.png" group-title="Vua Sân Cỏ TV" , 10:00 19/08 ⚽ Xelaju MC vs Diriangen (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/eb925e3fb6c077df66cde044df115454/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/35471db87e4db1631fafc7aa8021dbba.png" group-title="Vua Sân Cỏ TV" , 10:00 19/08 ⚽ Real Esteli vs CS Herediano (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/edbaf8429392769e7ee83fb89f32dd6d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b0ec985cd57cba37048de614c46660e5.png" group-title="Vua Sân Cỏ TV" , 10:00 19/08 ⚽ Xelaju MC vs Diriangen (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/eb925e3fb6c077df66cde044df115454/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/5e7f98b3e6dba2955758797b84e94868.png" group-title="Vua Sân Cỏ TV" , * 16:30 19/08 ⚽ APIA Leichhardt Tigers vs Melbourne Victory (Tôn Quyền) 
 https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
@@ -754,7 +745,7 @@ https://live2.livefeedtextbox.com/live/channel1.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhyg2qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 20:00 18/08 ⚽ Thái Lan vs Singapore (HD ROY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-1.flv?auth_key=3000001787059873-0-0-802bc31dca8ca728ce7198f16474037a
+https://live2.deliverfluxlive.com/livecdn/channel-1.flv?auth_key=3000001787061672-0-0-d4f7dc41ccf58353f10505f83db6e1e2
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhyg2qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 20:00 18/08 ⚽ Thái Lan vs Singapore (NICK) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -764,7 +755,7 @@ https://live2.livefeedtextbox.com/live/channel5.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhyg2qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 20:00 18/08 ⚽ Thái Lan vs Singapore (HD NICK) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-5.flv?auth_key=3000001787059901-0-0-f1ba8c991a5b0d9df361ca6f5b23b6b2
+https://live2.deliverfluxlive.com/livecdn/channel-5.flv?auth_key=3000001787061700-0-0-c17e44d478d2497fbc183767e1a04484
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhyg2qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 20:00 18/08 ⚽ Thái Lan vs Singapore (BRADY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -774,7 +765,7 @@ https://live2.livefeedtextbox.com/live/channel15.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhyg2qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 20:00 18/08 ⚽ Thái Lan vs Singapore (HD BRADY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-15.flv?auth_key=3000001787059906-0-0-e3e7a979d442758048d8ddaf236f30e3
+https://live2.deliverfluxlive.com/livecdn/channel-15.flv?auth_key=3000001787061706-0-0-b6c8622399d16cb5f27eb10d09f41ebc
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhyg2qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 20:00 18/08 ⚽ Thái Lan vs Singapore (JOHAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -784,7 +775,7 @@ https://live2.livefeedtextbox.com/live/channel12.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhyg2qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 20:00 18/08 ⚽ Thái Lan vs Singapore (HD JOHAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-12.flv?auth_key=3000001787059935-0-0-2f387570cac7c0de01f1bc0083f88d1b
+https://live2.deliverfluxlive.com/livecdn/channel-12.flv?auth_key=3000001787061716-0-0-9aa839bf59532216f114c769ae726641
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhyg2qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 20:00 18/08 ⚽ Thái Lan vs Singapore (ASTRA) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -794,17 +785,7 @@ https://live2.livefeedtextbox.com/live/channel11.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhyg2qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 20:00 18/08 ⚽ Thái Lan vs Singapore (HD ASTRA) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-11.flv?auth_key=3000001787059942-0-0-47e3d46386dc795e043d1a4268474049
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hjjnq0j6/image/small" group-title="Xôi Lạc Z TV" , 🟢 18:35 18/08 ⚽ Shanghai Shenhua vs Beijing Guoan (FILIP) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.livefeedtextbox.com/live/channel19.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hjjnq0j6/image/small" group-title="Xôi Lạc Z TV" , 🟢 18:35 18/08 ⚽ Shanghai Shenhua vs Beijing Guoan (HD FILIP) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-19.flv?auth_key=3000001787059949-0-0-09e0cd94b27ecff5af3bd632584d635d
+https://live2.deliverfluxlive.com/livecdn/channel-11.flv?auth_key=3000001787061722-0-0-17d95c064bd8cb43f657ffc0873a6141
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghg80kr6od/image/small" group-title="Xôi Lạc Z TV" , 🟢 19:00 18/08 ⚽ Svay Rieng FC vs Eastern District (FELIX) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -814,7 +795,7 @@ https://live2.livefeedtextbox.com/live/channel24.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghg80kr6od/image/small" group-title="Xôi Lạc Z TV" , 🟢 19:00 18/08 ⚽ Svay Rieng FC vs Eastern District (HD FELIX) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-24.flv?auth_key=3000001787059956-0-0-2dc3ce09c07408ab32270d38baddaaa0
+https://live2.deliverfluxlive.com/livecdn/channel-24.flv?auth_key=3000001787061730-0-0-140b1b742e3c4a1d3c0cc257c6e3541f
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghe757moep/image/small" group-title="Xôi Lạc Z TV" , 🟢 18:30 18/08 ⚽ Bali United vs Persib Bandung (JEAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -824,37 +805,7 @@ https://live2.livefeedtextbox.com/live/channel7.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghe757moep/image/small" group-title="Xôi Lạc Z TV" , 🟢 18:30 18/08 ⚽ Bali United vs Persib Bandung (HD JEAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-7.flv?auth_key=3000001787059963-0-0-ee6f1e6324e585fdc64e9d148482d114
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/yl5ergyt9w3r8k0/image/small" group-title="Xôi Lạc Z TV" , 🟢 18:00 18/08 🏀 Chinese Taipei Blue vs Wonju Dongbu Promy (ALAN) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.livefeedtextbox.com/live/channel25.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/yl5ergyt9w3r8k0/image/small" group-title="Xôi Lạc Z TV" , 🟢 18:00 18/08 🏀 Chinese Taipei Blue vs Wonju Dongbu Promy (HD ALAN) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-25.flv?auth_key=3000001787059970-0-0-54cbedfbb2e9686117908ae3b32afe9e
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/n54ql7txjvwrvy9/image/small" group-title="Xôi Lạc Z TV" , 🟢 19:00 18/08 🏀 Nihon Tengu vs Taiwan Beer Leopards (STEP) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.livefeedtextbox.com/live/channel26.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/n54ql7txjvwrvy9/image/small" group-title="Xôi Lạc Z TV" , 🟢 19:00 18/08 🏀 Nihon Tengu vs Taiwan Beer Leopards (HD STEP) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-26.flv?auth_key=3000001787059979-0-0-e24e42069490c6d4af191d4db1280c48
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/k82repjtv7y9qep/image/small" group-title="Xôi Lạc Z TV" , 🟢 17:00 18/08 🎮 GEN.G Challengers vs Fredit BRION Challengers (MARTY) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.livefeedtextbox.com/live/channel30.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/k82repjtv7y9qep/image/small" group-title="Xôi Lạc Z TV" , 🟢 17:00 18/08 🎮 GEN.G Challengers vs Fredit BRION Challengers (HD MARTY) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-30.flv?auth_key=3000001787059987-0-0-c8de16b91df49a832f8dd746d293af3d
+https://live2.deliverfluxlive.com/livecdn/channel-7.flv?auth_key=3000001787061758-0-0-7c7da7c377c2a5510f61b3a9777d31d7
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghg20jr6od/image/small" group-title="Xôi Lạc Z TV" , 🟡 21:30 18/08 ⚽ Scolar Resita vs Petrolul (KEN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -864,7 +815,7 @@ https://live2.livefeedtextbox.com/live/channel18.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghg20jr6od/image/small" group-title="Xôi Lạc Z TV" , 🟡 21:30 18/08 ⚽ Scolar Resita vs Petrolul (HD KEN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-18.flv?auth_key=3000001787059995-0-0-96c75d2dfc7db944ae0e84b6bd0ab7ae
+https://live2.deliverfluxlive.com/livecdn/channel-18.flv?auth_key=3000001787061765-0-0-253501e8e9ead49343f329eef85f6043
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhl6p6qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟡 21:30 18/08 ⚽ Ramnicu Valcea FC vs Chindia Targoviste (POLO) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -874,17 +825,37 @@ https://live2.livefeedtextbox.com/live/channel10.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhl6p6qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟡 21:30 18/08 ⚽ Ramnicu Valcea FC vs Chindia Targoviste (HD POLO) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-10.flv?auth_key=3000001787060004-0-0-fdcdb58da6736f74b6bf3be907cd75e9
+https://live2.deliverfluxlive.com/livecdn/channel-10.flv?auth_key=3000001787061773-0-0-6412c25cc24a1009aee630bc74c18309
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphov50r8k0/image/small" group-title="Xôi Lạc Z TV" , 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fergana (JEAN) 
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphov50r8k0/image/small" group-title="Xôi Lạc Z TV" , 🟡 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fergana (JEAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
 https://live2.livefeedtextbox.com/live/channel7.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphov50r8k0/image/small" group-title="Xôi Lạc Z TV" , 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fergana (HD JEAN) 
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphov50r8k0/image/small" group-title="Xôi Lạc Z TV" , 🟡 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fergana (HD JEAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-7.flv?auth_key=3000001787060011-0-0-93329051ae4003812b913c32e409b16d
+https://live2.deliverfluxlive.com/livecdn/channel-7.flv?auth_key=3000001787061781-0-0-1731be27c097bf6a2ea859e70dff038b
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyhx21r1ge/image/small" group-title="Xôi Lạc Z TV" , 22:30 18/08 ⚽ CSKA Moscow vs Akron Togliatti (FELIX) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
+https://live2.livefeedtextbox.com/live/channel24.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyhx21r1ge/image/small" group-title="Xôi Lạc Z TV" , 22:30 18/08 ⚽ CSKA Moscow vs Akron Togliatti (HD FELIX) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
+https://live2.deliverfluxlive.com/livecdn/channel-24.flv?auth_key=3000001787061788-0-0-56c64c17ef27098481198727abc470d8
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2ghvj5km0ve/image/small" group-title="Xôi Lạc Z TV" , 22:30 18/08 ⚽ Rodina Moscow vs FC Orenburg (HIRO) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
+https://live2.livefeedtextbox.com/live/channel14.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2ghvj5km0ve/image/small" group-title="Xôi Lạc Z TV" , 22:30 18/08 ⚽ Rodina Moscow vs FC Orenburg (HD HIRO) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
+https://live2.deliverfluxlive.com/livecdn/channel-14.flv?auth_key=3000001787061797-0-0-c21422a6d2756ec660dfd2bf1f8e80af
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/z318q6ntd9ymo9j/image/small" group-title="Xôi Lạc Z TV" , 06:00 19/08 🏀 Nữ Connecticut Sun vs Nữ Los Angeles Sparks (STEP) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -986,15 +957,35 @@ https://live2.pro2cdnlive.com/live/channel29.flv
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
 https://live2.pro2cdnlive.com/live/channel-29.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/4jwq2pfvjjom0ve/image/small" group-title="Xôi Lạc Z TV" , 22:00 18/08 🥎 Katerina Siniakova vs Madison Keys (VIC) 
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/l965mk8t9j0m1ge/image/small" group-title="Xôi Lạc Z TV" , 06:30 20/08 🏀 Nữ Mystics vs Nữ Toronto Tempo (STEP) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
+https://live2.pro2cdnlive.com/live/channel26.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/l965mk8t9j0m1ge/image/small" group-title="Xôi Lạc Z TV" , 06:30 20/08 🏀 Nữ Mystics vs Nữ Toronto Tempo (HD STEP) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
+https://live2.pro2cdnlive.com/live/channel-26.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/gx7lm73ty9yr2wd/image/small" group-title="Xôi Lạc Z TV" , 06:30 20/08 🏀 Nữ Philippines vs Nữ Canada (TOMMY) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
+https://live2.pro2cdnlive.com/live/channel29.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/gx7lm73ty9yr2wd/image/small" group-title="Xôi Lạc Z TV" , 06:30 20/08 🏀 Nữ Philippines vs Nữ Canada (HD TOMMY) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
+https://live2.pro2cdnlive.com/live/channel-29.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/4jwq2pfvjjom0ve/image/small" group-title="Xôi Lạc Z TV" , 🟡 22:00 18/08 🥎 Katerina Siniakova vs Madison Keys (VIC) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
 https://live2.livefeedtextbox.com/live/channel32.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/4jwq2pfvjjom0ve/image/small" group-title="Xôi Lạc Z TV" , 22:00 18/08 🥎 Katerina Siniakova vs Madison Keys (HD VIC) 
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/4jwq2pfvjjom0ve/image/small" group-title="Xôi Lạc Z TV" , 🟡 22:00 18/08 🥎 Katerina Siniakova vs Madison Keys (HD VIC) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-32.flv?auth_key=3000001787060036-0-0-f8eab83fc436c67ee8ee9ee7843ed622
+https://live2.deliverfluxlive.com/livecdn/channel-32.flv?auth_key=3000001787061825-0-0-5cd3b6d0f77427d1a5090b95c72dc038
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/318q6jfkp6gro9j/image/small" group-title="Xôi Lạc Z TV" , 23:10 18/08 🥎 Janice Tjen vs Mirra Andreeva (VIC) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1004,7 +995,7 @@ https://live2.livefeedtextbox.com/live/channel32.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/318q6jfkp6gro9j/image/small" group-title="Xôi Lạc Z TV" , 23:10 18/08 🥎 Janice Tjen vs Mirra Andreeva (HD VIC) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-32.flv?auth_key=3000001787060045-0-0-6318be6da4a2d80f5fca8b488f129b39
+https://live2.deliverfluxlive.com/livecdn/channel-32.flv?auth_key=3000001787061834-0-0-cd691b3d7c95e39478cdddbd636a056f
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/3glrw2fzpv6rdyj/image/small" group-title="Xôi Lạc Z TV" , 23:30 18/08 🥎 Taylor Fritz vs Daniel Merida Aguilar (LUCAS) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1014,7 +1005,7 @@ https://live2.livefeedtextbox.com/live/channel31.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/3glrw2fzpv6rdyj/image/small" group-title="Xôi Lạc Z TV" , 23:30 18/08 🥎 Taylor Fritz vs Daniel Merida Aguilar (HD LUCAS) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscore.com/
-https://live2.deliverfluxlive.com/livecdn/channel-31.flv?auth_key=3000001787060053-0-0-556c59078fd94d3bcdc3cca6750a36b9
+https://live2.deliverfluxlive.com/livecdn/channel-31.flv?auth_key=3000001787061843-0-0-678ad15efca5f21ca6c75a32b9e051cd
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/n54ql4f8go0rvy9/image/small" group-title="Xôi Lạc Z TV" , 02:00 19/08 🥎 Coco Gauff vs Li Ann (LUCAS) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1148,22 +1139,22 @@ https://live05.meung.app/live/02456966.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80" group-title="Cola TV" , 🟢 20:00 18/08 ⚽ Thái Lan vs Singapore (BLV SODA) [hls 2]
 https://live05.miekgo.app/live/02456966.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0eff3f54d4407ac2e90783bc6654e657.png!w80" group-title="Cola TV" , 🟡 21:00 18/08 ⚽ CLB Sogdiana Jizak vs CLB Qizilqum PFK (BLV MOUNTAIN DEW) [flv]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0eff3f54d4407ac2e90783bc6654e657.png!w80" group-title="Cola TV" , 🟢 21:00 18/08 ⚽ CLB Sogdiana Jizak vs CLB Qizilqum PFK (BLV MOUNTAIN DEW) [flv]
 https://live05.meung.app/live/87547578.flv
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0eff3f54d4407ac2e90783bc6654e657.png!w80" group-title="Cola TV" , 🟡 21:00 18/08 ⚽ CLB Sogdiana Jizak vs CLB Qizilqum PFK (BLV MOUNTAIN DEW) [hls]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0eff3f54d4407ac2e90783bc6654e657.png!w80" group-title="Cola TV" , 🟢 21:00 18/08 ⚽ CLB Sogdiana Jizak vs CLB Qizilqum PFK (BLV MOUNTAIN DEW) [hls]
 https://live05.meung.app/live/87547578.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0eff3f54d4407ac2e90783bc6654e657.png!w80" group-title="Cola TV" , 🟡 21:00 18/08 ⚽ CLB Sogdiana Jizak vs CLB Qizilqum PFK (BLV MOUNTAIN DEW) [hls 2]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0eff3f54d4407ac2e90783bc6654e657.png!w80" group-title="Cola TV" , 🟢 21:00 18/08 ⚽ CLB Sogdiana Jizak vs CLB Qizilqum PFK (BLV MOUNTAIN DEW) [hls 2]
 https://live05.miekgo.app/live/87547578.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fe138ef80fc8e5cb7a6ac6ebe754cd98.png!w80" group-title="Cola TV" , 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fargona (BLV SAMURAI) [flv]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fe138ef80fc8e5cb7a6ac6ebe754cd98.png!w80" group-title="Cola TV" , 🟡 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fargona (BLV SAMURAI) [flv]
 https://live05.meung.app/live/07808742.flv
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fe138ef80fc8e5cb7a6ac6ebe754cd98.png!w80" group-title="Cola TV" , 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fargona (BLV SAMURAI) [hls]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fe138ef80fc8e5cb7a6ac6ebe754cd98.png!w80" group-title="Cola TV" , 🟡 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fargona (BLV SAMURAI) [hls]
 https://live05.meung.app/live/07808742.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fe138ef80fc8e5cb7a6ac6ebe754cd98.png!w80" group-title="Cola TV" , 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fargona (BLV SAMURAI) [hls 2]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fe138ef80fc8e5cb7a6ac6ebe754cd98.png!w80" group-title="Cola TV" , 🟡 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fargona (BLV SAMURAI) [hls 2]
 https://live05.miekgo.app/live/07808742.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1eae81e51945df5660e24dc6f0ea353c.png!w80" group-title="Cola TV" , 22:30 18/08 ⚽ CSKA Moscow vs Akron Togliatti (BLV MONSTER) [flv]
@@ -1456,10 +1447,10 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://2ms8tv.top/wp-json/s8-image/8afe0e5f-b297-4025-b68f-ba789f847a27" group-title="S8 TV" , 🟢 21:00 18/08 ⚽ Sogdiana Jizak vs Qizilqum Zarafshon (NGƯỜI BẠC) [flv]
 
 
-#EXTINF:-1 tvg-logo="https://2ms8tv.top/wp-json/s8-image/b33165e6-c8ac-43d9-bee4-1eb7547bfceb" group-title="S8 TV" , 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fergana (NGƯỜI CAT) [hls]
+#EXTINF:-1 tvg-logo="https://2ms8tv.top/wp-json/s8-image/b33165e6-c8ac-43d9-bee4-1eb7547bfceb" group-title="S8 TV" , 🟡 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fergana (NGƯỜI CAT) [hls]
 
 
-#EXTINF:-1 tvg-logo="https://2ms8tv.top/wp-json/s8-image/b33165e6-c8ac-43d9-bee4-1eb7547bfceb" group-title="S8 TV" , 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fergana (NGƯỜI CAT) [flv]
+#EXTINF:-1 tvg-logo="https://2ms8tv.top/wp-json/s8-image/b33165e6-c8ac-43d9-bee4-1eb7547bfceb" group-title="S8 TV" , 🟡 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fergana (NGƯỜI CAT) [flv]
 
 
 #EXTINF:-1 tvg-logo="https://2ms8tv.top/wp-json/s8-image/ad076746-f68a-4a55-98de-e1d45413d78c" group-title="S8 TV" , 22:30 18/08 ⚽ CSKA Moscow vs Akron Togliatti (NGƯỜI TIỀN SỬ) [hls]
@@ -1526,13 +1517,13 @@ https://eqr2hdarxfliv.vcdn.cloud/1787037175_hd/1787037175_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/thailand.png" group-title="Giờ Vàng TV" , 🟢 20:00 18/08 ⚽ Thái Lan vs Singapore (Số 13) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1786941909_hd/1786941909_hd@720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/sogdiana-jizak.png" group-title="Giờ Vàng TV" , 🟢 21:00 18/08 ⚽ FK Sogdiana Jizak vs Qizilqum Zarafshon (Số 5) [hls]
+https://eqr2hdarxfliv.vcdn.cloud/1787037303_hd/1787037303_hd@720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/eb293c68f4fcefb85c85dc46749b68fd.png" group-title="Giờ Vàng TV" , 🟢 14:00 18/08 🏀 Imus Agimat vs Sarangani Province (Số 4) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1786988597_hd/1786988597_hd@720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/sogdiana-jizak.png" group-title="Giờ Vàng TV" , 🟡 21:00 18/08 ⚽ FK Sogdiana Jizak vs Qizilqum Zarafshon (blv-tri) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/buxoro-fk.png" group-title="Giờ Vàng TV" , 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fargona (blv-leo) [hls]
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/buxoro-fk.png" group-title="Giờ Vàng TV" , 🟡 22:00 18/08 ⚽ Buxoro FK vs Neftchi Fargona (blv-leo) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/cska-moscow.png" group-title="Giờ Vàng TV" , 22:30 18/08 ⚽ CSKA Moscow vs Akron Togliatti (blv-mason) [hls]
@@ -1609,11 +1600,11 @@ https://live.inplyr.com/room/620797.m3u8
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/534055.m3u8
 
-#EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260816/059328b739616f6121bd2c8817709542.png" group-title="Socolive TV" , 🟡 21:00 18/08 🏀 India U18 vs Kazakhstan U18 (A CHÈ) [geo]
+#EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260816/059328b739616f6121bd2c8817709542.png" group-title="Socolive TV" , 🟢 21:00 18/08 🏀 India U18 vs Kazakhstan U18 (A CHÈ) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/356042.m3u8
 
-#EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260816/059328b739616f6121bd2c8817709542.png" group-title="Socolive TV" , 🟡 21:00 18/08 🏀 India U18 vs Kazakhstan U18 (BLV HENRY) [geo]
+#EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260816/059328b739616f6121bd2c8817709542.png" group-title="Socolive TV" , 🟢 21:00 18/08 🏀 India U18 vs Kazakhstan U18 (BLV HENRY) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/428392.m3u8
 
@@ -2061,18 +2052,6 @@ https://cdnflv.xbdbotv.live/live/ZjE5NzExNDI2c3VqaWNlYmlxZzdhZms3YXp3ZWt0N2sxN2R
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/thailand-18593" group-title="Bia Ôm TV" , 🟢 20:00 18/08 ⚽ Thái Lan vs Singapore (NEM NƯỚNG) [hls]
 https://cdnhls.xbdbotv.live/live/ZjE5NzExNDI2c3VqaWNlYmlxZzdhZms3YXp3ZWt0N2sxN2RibjR0OTR0YnNqazZ0dHl3ZHdtbzA0N24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shanghai-shenhua-9279" group-title="Bia Ôm TV" , 🟢 18:35 18/08 ⚽ Shanghai Shenhua vs Beijing Guoan (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/ZjE5Njc0Njc4c2E4bGNhNmE5OHVqZ2t0Nm13MnQ2cGF0cWRsbnVjOGRlcjlrYWpqeTY2MWk4MXVnMmk.flv
-
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shanghai-shenhua-9279" group-title="Bia Ôm TV" , 🟢 18:35 18/08 ⚽ Shanghai Shenhua vs Beijing Guoan (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/ZjE5Njc0Njc4c2E4bGNhNmE5OHVqZ2t0Nm13MnQ2cGF0cWRsbnVjOGRlcjlrYWpqeTY2MWk4MXVnMmk/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shanghai-shenhua-9279" group-title="Bia Ôm TV" , 🟢 18:35 18/08 ⚽ Shanghai Shenhua vs Beijing Guoan (TIGER) [flv]
-https://cdnflv.xbdbotv.live/live/ZjE5Njc0Njc4c2QwbjJucHM3enNmbmlwaWdvdHcyOGw3eGRqdmlzYTM3em9hdDVldnNlbnNhMTA1cWc.flv
-
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shanghai-shenhua-9279" group-title="Bia Ôm TV" , 🟢 18:35 18/08 ⚽ Shanghai Shenhua vs Beijing Guoan (TIGER) [hls]
-https://cdnhls.xbdbotv.live/live/ZjE5Njc0Njc4c2QwbjJucHM3enNmbmlwaWdvdHcyOGw3eGRqdmlzYTM3em9hdDVldnNlbnNhMTA1cWc/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/heidenheim-2831" group-title="Bia Ôm TV" , 23:00 18/08 ⚽ Heidenheim vs Bayern Munich (BUDWEISER) [flv]
 https://cdnflv.xbdbotv.live/live/ZjE5Nzk1NzQ5c3Nrd3plNm13ZWk4aWpxZWJ0cWRxdDBoMmRva3FmZzI0YmltNjlicGp1aTM2bnV0cmE.flv
 
@@ -2181,11 +2160,11 @@ https://live.inplyr.com/room/620797.m3u8
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/534055.m3u8
 
-#EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260816/059328b739616f6121bd2c8817709542.png" group-title="Socolive TV" , 🟡 21:00 18/08 🏀 India U18 vs Kazakhstan U18 (A CHÈ) [geo]
+#EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260816/059328b739616f6121bd2c8817709542.png" group-title="Socolive TV" , 🟢 21:00 18/08 🏀 India U18 vs Kazakhstan U18 (A CHÈ) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/356042.m3u8
 
-#EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260816/059328b739616f6121bd2c8817709542.png" group-title="Socolive TV" , 🟡 21:00 18/08 🏀 India U18 vs Kazakhstan U18 (BLV HENRY) [geo]
+#EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260816/059328b739616f6121bd2c8817709542.png" group-title="Socolive TV" , 🟢 21:00 18/08 🏀 India U18 vs Kazakhstan U18 (BLV HENRY) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/428392.m3u8
 
@@ -2621,27 +2600,19 @@ https://live.inplyr.com/room/122591.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 19:00 18/08 ⚽ Bristol City U21 vs Wigan Athletic U21 [ENG PDL2] [flv]
+#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 20:00 18/08 ⚽ Thailand vs Singapore [ASEAN C] [flv]
 #EXTVLCOPT:http-referrer=https://www.sptv.com/
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5677414_1.flv?auth_key=1787060438-1095-0-0a91475787d20591077f077248be0387
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5670686_1.flv?auth_key=1787062233-8436-0-f188f42db93efba8a3c1d76e7fac053e
 
 #EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 20:00 18/08 ⚽ Thailand vs Singapore [ASEAN C] [flv]
 #EXTVLCOPT:http-referrer=https://www.sptv.com/
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5670686_1.flv?auth_key=1787060443-6773-0-9d211b83a0ca46c275f64a85c94e3a97
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5670686_2.flv?auth_key=1787062233-8714-0-9732f4bab768961a374b07b5b4613e7a
 
-#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 20:00 18/08 ⚽ Thailand vs Singapore [ASEAN C] [flv]
+#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 20:15 18/08 ⚽ Charlton Athletic U21 vs Bolton Wanderers U21 [ENG PDL2] [flv]
 #EXTVLCOPT:http-referrer=https://www.sptv.com/
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5670686_2.flv?auth_key=1787060443-2384-0-5b4685402dd1a9791d420ab7b9c43b13
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5677413_1.flv?auth_key=1787062237-6700-0-07442a553461bff036a54ee8e9fb27ab
 
-#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟡 21:00 18/08 ⚽ Sogdiana Jizak vs Qizilqum Zarafshon [UZB SL]
+#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟡 22:00 18/08 ⚽ FK Buxoro vs Neftchi Fargona [UZB SL]
 https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 19:00 18/08 🏀 Nihon Tengus BC vs Taoyuan Taiwan Beer Leopards BC [ASTOU] [flv]
-#EXTVLCOPT:http-referrer=https://www.sptv.com/
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5698158_1.flv?auth_key=1787060447-6644-0-4de8b72bdc6ed8c1eef47f01e10f091e
-
-#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 18:30 18/08 🏀 Chinese Taipei Blue Team (M) vs Wonju DB Promy BC [JonB] [flv]
-#EXTVLCOPT:http-referrer=https://www.sptv.com/
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5684286_1.flv?auth_key=1787060454-4038-0-970e3923303fccb2f1817d6792c26605
 
  
