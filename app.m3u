@@ -167,24 +167,28 @@ https://freem3u.xyz/api/live/play.m3u8?vid=52
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=71
 
-#EXTINF:-1 tvg-id="htv1" group-title="VNLTV" tvg-logo="https://i.imgur.com/jQ3ZwVf.png" , HTV1 
-https://raw.githubusercontent.com/thcoban/thvn/main/htv1.m3u8
-#EXTINF:-1 tvg-id="htv2hd" group-title="VNLTV" tvg-logo="https://i.imgur.com/CujLGyG.png" , HTV2 (Vie Channel) 
-https://raw.githubusercontent.com/thcoban/thvn/main/viechannelhtv2hd.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="VNLTV" tvg-logo="https://i.imgur.com/acPBRgX.png" , HTV3
-https://raw.githubusercontent.com/thcoban/thvn/main/htv3.m3u8
-#EXTINF:-1 tvg-id="htvkey" group-title="VNLTV" tvg-logo="https://i.imgur.com/pBdALZ1.png" , HTV4 Key
-https://raw.githubusercontent.com/thcoban/thvn/main/htvkey.m3u8
-EXTINF:-1 tvg-id="htvkey" group-title="VNLTV" tvg-logo="https://i.imgur.com/pBdALZ1.png" , HTV5 Bchannel
-https://freem3u.xyz/api/live/play.m3u8?vid=151
-#EXTINF:-1 tvg-id="htv7hd" group-title="VNLTV" tvg-logo="https://i.imgur.com/Kl1bcCF.png" , HTV7 
-https://raw.githubusercontent.com/thcoban/thvn/main/htv7hd.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="VNLTV" tvg-logo="https://i.imgur.com/2ZPoayk.png" , HTV9
-https://raw.githubusercontent.com/thcoban/thvn/main/htv9hd.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="VNLTV" tvg-logo="https://i.imgur.com/ky6gedh.png" , HTV THỂ THAO
-https://raw.githubusercontent.com/thcoban/thvn/main/htvthethao.m3u8
-#EXTINF:-1 tvg-id="htvkey" group-title="VNLTV" tvg-logo="https://vietanhtv.id.vn/logo/htvkey.png", HTV Key
-https://raw.githubusercontent.com/thcoban/thvn/main/htvkey.m3u8
+https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv1.png", HTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv2.png", HTV2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv3.png", HTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htvkey.png", HTV Key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv7.png", HTV7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv9.png", HTV9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htvthethao.png", HTV Thể Thao HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="VNLTV" tvg-logo="https://vietanhtv.id.vn/logo/htvcthuanviet.png", HTVC Thuần Việt 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://freem3u.xyz/api/live/play.m3u8?vid=13
