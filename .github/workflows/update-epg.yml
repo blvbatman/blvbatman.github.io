@@ -2,7 +2,7 @@ name: Auto Update EPG
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '* * * * *'
   workflow_dispatch:
 
 permissions:
