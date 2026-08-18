@@ -2,7 +2,7 @@ name: Auto Update Sports
 
 on:
   schedule:
-    - cron: '* * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
