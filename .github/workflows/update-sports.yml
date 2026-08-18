@@ -15,13 +15,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download EPG File
+      - name: Download Sports File
         run: |
-          curl -sL "view-source:https://thcoban.github.io/ththethao/ttthethao.m3u" -o sports.m3u
+          curl -sL "https://thcoban.github.io/ththethao/ttthethao.m3u" -o sports.m3u
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add epgu.xml
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update EPG" && git push)
+          git add sports.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update Sports M3U" && git push)
