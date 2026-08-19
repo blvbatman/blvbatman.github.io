@@ -1,4 +1,4 @@
-name: Sync FPT Play Group
+name: FPT Auto Update
 
 on:
   schedule:
@@ -51,6 +51,12 @@ jobs:
                       # Kiểm tra xem khối này có chứa m3u8 và không chứa mpd không
                       block_str = "\n".join(channel_block).lower()
                       if "m3u8" in block_str and "mpd" not in block_str:
+                          # Thêm chữ "FPT " ngay sau dấu phẩy cuối cùng (dạng: ,FPT Sự Kiện 1)
+                          extinf_line = channel_block[0]
+                          if "," in extinf_line:
+                              parts = extinf_line.rsplit(",", 1)
+                              channel_block[0] = parts[0] + ",FPT " + parts[1].strip()
+                          
                           valid_channels.extend(channel_block)
                       continue
                   else:
@@ -85,14 +91,14 @@ jobs:
               # 1. Xóa nhóm FPT cũ đi trước
               cleaned_target = remove_fpt_group(target_lines)
 
-              # 2. Đưa toàn bộ nhóm FPT mới xuống dưới cùng của danh sách
+              # 2. Đưa toàn bộ nhóm FPT mới xuống dưới cùng
               final_lines = cleaned_target + new_fpt_channels
 
               # 3. Ghi lại file
               with open(TARGET_FILE, "w", encoding="utf-8") as f:
                   f.write("\n".join(final_lines) + "\n")
                   
-              print("Đã cập nhật và chuyển nhóm Sự Kiện FPT xuống cuối file thành công!")
+              print("Cập nhật tên thành ',FPT Sự Kiện 1' thành công!")
           except Exception as e:
               print(f"Lỗi: {e}")
           '
@@ -102,4 +108,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add app.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Move Su Kien FPT to bottom and update" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update FPT prefix format and move to bottom" && git push)
