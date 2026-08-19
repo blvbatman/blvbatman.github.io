@@ -22,30 +22,57 @@ jobs:
 
       - name: Run inline Python script to update M3U
         run: |
-          python -c 'import urllib.request; SOURCE_URL = "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv"; TARGET_FILE = "app.m3u"; req = urllib.request.urlopen(SOURCE_URL); source_lines = req.read().decode("utf-8", errors="ignore").splitlines(); valid_channels = []; i = 0
+          python -c '
+          import urllib.request
+
+          SOURCE_URL = "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv"
+          TARGET_FILE = "app.m3u"
+
+          try:
+              req = urllib.request.urlopen(SOURCE_URL)
+              source_lines = req.read().decode("utf-8", errors="ignore").splitlines()
+          except Exception as e:
+              print(f"Lỗi tải nguồn: {e}")
+              exit(1)
+
+          valid_channels = []
+          i = 0
           while i < len(source_lines):
               line = source_lines[i]
               if line.startswith("#EXTINF:") and "Sự Kiện FPT" in line:
                   block = [line]
                   i += 1
+                  # Gom toàn bộ các dòng thuộc kênh này cho đến khi gặp #EXTINF mới hoặc hết file
                   while i < len(source_lines) and not source_lines[i].startswith("#EXTINF:"):
                       block.append(source_lines[i])
                       i += 1
-                  block_str = "\n".join(block).lower()
-                  if "m3u8" in block_str and "mpd" not in block_str:
-                      extinf = block[0]
-                      if "," in extinf:
-                          parts = extinf.rsplit(",", 1)
-                          block[0] = parts[0] + ",FPT " + parts[1].strip()
-                      valid_channels.extend(block)
+                  
+                  # Kiểm tra xem khối này có chứa dòng #KODIPROP (khóa bản quyền / mã hóa) không
+                  block_str = "\n".join(block)
+                  if "#KODIPROP" in block_str:
+                      # Nếu có -> Bỏ qua, không lấy
+                      continue
+                  
+                  # Đổi tên: thêm ",FPT " vào sau dấu phẩy cuối cùng của dòng #EXTINF
+                  extinf = block[0]
+                  if "," in extinf:
+                      parts = extinf.rsplit(",", 1)
+                      block[0] = parts[0] + ",FPT " + parts[1].strip()
+                  
+                  # Thêm vào danh sách hợp lệ
+                  valid_channels.extend(block)
                   continue
               else:
                   i += 1
+
+          # Đọc file app.m3u hiện tại
           try:
               with open(TARGET_FILE, "r", encoding="utf-8", errors="ignore") as f:
                   target_lines = f.read().splitlines()
           except FileNotFoundError:
               target_lines = ["#EXTM3U"]
+
+          # Xóa nhóm FPT cũ trong file hiện tại
           cleaned = []
           j = 0
           while j < len(target_lines):
@@ -57,14 +84,20 @@ jobs:
                   continue
               cleaned.append(line)
               j += 1
+
+          # Đưa nhóm FPT mới xuống dưới cùng
           final_lines = cleaned + valid_channels
+
+          # Ghi lại file
           with open(TARGET_FILE, "w", encoding="utf-8") as f:
               f.write("\n".join(final_lines) + "\n")
-          print("Thành công!")'
+              
+          print("Lọc bỏ Kodi/Key thành công, đã đổi tên và đưa xuống cuối file!")
+          '
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add app.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update FPT prefix format and move to bottom" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Filter out Kodi key streams and update FPT group" && git push)
