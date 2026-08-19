@@ -82,23 +82,17 @@ jobs:
               except FileNotFoundError:
                   target_lines = ["#EXTM3U"]
 
+              # 1. Xóa nhóm FPT cũ đi trước
               cleaned_target = remove_fpt_group(target_lines)
 
-              final_lines = []
-              inserted = False
-              for line in cleaned_target:
-                  final_lines.append(line)
-                  if line.startswith("#EXTM3U") and not inserted:
-                      final_lines.extend(new_fpt_channels)
-                      inserted = True
-                      
-              if not inserted:
-                  final_lines = new_fpt_channels + cleaned_target
+              # 2. Đưa toàn bộ nhóm FPT mới xuống dưới cùng của danh sách
+              final_lines = cleaned_target + new_fpt_channels
 
+              # 3. Ghi lại file
               with open(TARGET_FILE, "w", encoding="utf-8") as f:
                   f.write("\n".join(final_lines) + "\n")
                   
-              print("Cập nhật nhóm Sự Kiện FPT thành công!")
+              print("Đã cập nhật và chuyển nhóm Sự Kiện FPT xuống cuối file thành công!")
           except Exception as e:
               print(f"Lỗi: {e}")
           '
@@ -108,4 +102,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add app.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update group Su Kien FPT Play" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Move Su Kien FPT to bottom and update" && git push)
