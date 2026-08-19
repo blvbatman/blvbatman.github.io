@@ -43,13 +43,15 @@ jobs:
                   if line.startswith("#EXTINF:") and is_fpt_group(line):
                       channel_block = [line]
                       i += 1
+                      # Gom toàn bộ các dòng thuộc kênh này cho đến khi gặp #EXTINF mới hoặc hết file
                       while i < len(lines) and not lines[i].startswith("#EXTINF:"):
                           channel_block.append(lines[i])
                           i += 1
-                      if 2 <= len(channel_block) <= 3:
-                          block_str = "\n".join(channel_block).lower()
-                          if "m3u8" in block_str and "mpd" not in block_str:
-                              valid_channels.extend(channel_block)
+                      
+                      # Kiểm tra xem khối này có chứa m3u8 và không chứa mpd không
+                      block_str = "\n".join(channel_block).lower()
+                      if "m3u8" in block_str and "mpd" not in block_str:
+                          valid_channels.extend(channel_block)
                       continue
                   else:
                       i += 1
@@ -62,6 +64,7 @@ jobs:
                   line = lines[i]
                   if line.startswith("#EXTINF:") and is_fpt_group(line):
                       i += 1
+                      # Xóa sạch toàn bộ khối cũ của nhóm FPT
                       while i < len(lines) and not lines[i].startswith("#EXTINF:"):
                           i += 1
                       continue
@@ -95,7 +98,7 @@ jobs:
               with open(TARGET_FILE, "w", encoding="utf-8") as f:
                   f.write("\n".join(final_lines) + "\n")
                   
-              print("Gộp script vào yml và cập nhật thành công!")
+              print("Cập nhật nhóm Sự Kiện FPT thành công!")
           except Exception as e:
               print(f"Lỗi: {e}")
           '
