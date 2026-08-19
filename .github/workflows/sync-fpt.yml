@@ -13,15 +13,92 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v7   # Cập nhật lên v7
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v7 # Cập nhật lên v7
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Run sync script
-        run: python update_m3u.py
+      - name: Run inline Python script to update M3U
+        run: |
+          python -c '
+          import urllib.request
+
+          SOURCE_URL = "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv"
+          TARGET_FILE = "app.m3u"
+
+          def fetch_m3u(url):
+              req = urllib.request.urlopen(url)
+              return req.read().decode("utf-8", errors="ignore").splitlines()
+
+          def is_fpt_group(line):
+              return "Sự Kiện FPT" in line
+
+          def extract_valid_channels(lines):
+              valid_channels = []
+              i = 0
+              while i < len(lines):
+                  line = lines[i]
+                  if line.startswith("#EXTINF:") and is_fpt_group(line):
+                      channel_block = [line]
+                      i += 1
+                      while i < len(lines) and not lines[i].startswith("#EXTINF:"):
+                          channel_block.append(lines[i])
+                          i += 1
+                      if 2 <= len(channel_block) <= 3:
+                          block_str = "\n".join(channel_block).lower()
+                          if "m3u8" in block_str and "mpd" not in block_str:
+                              valid_channels.extend(channel_block)
+                      continue
+                  else:
+                      i += 1
+              return valid_channels
+
+          def remove_fpt_group(lines):
+              cleaned = []
+              i = 0
+              while i < len(lines):
+                  line = lines[i]
+                  if line.startswith("#EXTINF:") and is_fpt_group(line):
+                      i += 1
+                      while i < len(lines) and not lines[i].startswith("#EXTINF:"):
+                          i += 1
+                      continue
+                  cleaned.append(line)
+                  i += 1
+              return cleaned
+
+          try:
+              source_lines = fetch_m3u(SOURCE_URL)
+              new_fpt_channels = extract_valid_channels(source_lines)
+
+              try:
+                  with open(TARGET_FILE, "r", encoding="utf-8", errors="ignore") as f:
+                      target_lines = f.read().splitlines()
+              except FileNotFoundError:
+                  target_lines = ["#EXTM3U"]
+
+              cleaned_target = remove_fpt_group(target_lines)
+
+              final_lines = []
+              inserted = False
+              for line in cleaned_target:
+                  final_lines.append(line)
+                  if line.startswith("#EXTM3U") and not inserted:
+                      final_lines.extend(new_fpt_channels)
+                      inserted = True
+                      
+              if not inserted:
+                  final_lines = new_fpt_channels + cleaned_target
+
+              with open(TARGET_FILE, "w", encoding="utf-8") as f:
+                  f.write("\n".join(final_lines) + "\n")
+                  
+              print("Gộp script vào yml và cập nhật thành công!")
+          except Exception as e:
+              print(f"Lỗi: {e}")
+          '
 
       - name: Commit and Push changes
         run: |
