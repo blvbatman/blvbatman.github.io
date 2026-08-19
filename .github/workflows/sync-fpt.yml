@@ -2,7 +2,6 @@ name: Sync FPT Play Group
 
 on:
   schedule:
-    # Tự động chạy mỗi 5 phút một lần
     - cron: '*/5 * * * *'
   workflow_dispatch:
 
@@ -12,12 +11,12 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-  steps:
+    steps:
       - name: Checkout repository
-        uses: actions/checkout@v5   
+        uses: actions/checkout@v7   # Cập nhật lên v7
 
       - name: Set up Python
-        uses: actions/setup-python@v6 
+        uses: actions/setup-python@v7 # Cập nhật lên v7
         with:
           python-version: '3.10'
 
