@@ -360,3 +360,162 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/06/03/22/1717427367441/869de47c9504_640_360.png", History HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
+#EXTINF:-1  tvg-id="557763" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9358830'&EntityType='Item'&EntityId='557763'&Width=264&Height=250", FIFA+
+https://tglmp03.akamaized.net/out/v1/c8e964618dbd41b38ae487760387af24/manifest.mpd
+#EXTINF:-1 tvg-id="qazsports" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Qazsport_logo.svg/3840px-Qazsport_logo.svg.png", QAZSPORT(C1)
+http://stream.mcquack.net/72/index.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" group-logo="https://i.imgur.com/gQWANtJ.png" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK HD
+http://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/yVfSqNg.png",CARTOONITO HD
+http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtM7FnfuguLQjsWVAQd5mQm9hFSEGyB1io1hpfj1Ouph21eCfpc-I-h_s&s=10",NBA TV
+https://cdn1.ayitistream.com/NBATV/index.m3u8
+#EXTINF:-1 tvg-id="stream-33e4bb43-94cb-4752-9f74-16931f4286bb" tvg-name="Sky Sports F1 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-f1-uhd-uk.png?raw=true" group-title="🌈 4K UHD",Sky Sports F1 4K
+http://iptv.852851.xyz/l/HVwwAJDoYTXgR7k66OHdfd5tQrgU_4KvOnM0HBg-PYkKb2OfzDwsNB9Jl-tYjdyW/index.m3u8
+#EXTINF:-1 tvg-id="stream-ce5f50fb-e37f-416a-ac3b-6549a9a71e9d" tvg-name="Hub Premier 8 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/228_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",Hub Premier 8 HD
+http://iptv.852851.xyz/l/1k8EnQS7gxezoAZr-UAQ6IIQLIYC5BDFduEdXzR7nln2kZUFh1tTDJYUATmJRoDq/index.m3u8
+#EXTINF:-1 tvg-id="stream-8f8d31b5-a078-429e-ad59-a0ffa1f63414" tvg-name="Hub Premier 7 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/227_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",Hub Premier 7 HD
+http://iptv.852851.xyz/l/ul19lU49J1tY8JgbG4e-2d9r-UtXKjj4A1zm7FoOLqT4MrkC4NqZXxohlLNlrmMz/index.m3u8
+#EXTINF:-1 tvg-id="stream-5b6edf34-5eb5-441a-97c5-1c53c64e6ab3" tvg-name="Hub Premier 6 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/226_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",Hub Premier 6 HD
+http://iptv.852851.xyz/l/IV6_7UoCLmvYHl4JXAO8sJEWNbFkM-7bb4dQgZSD0muUixCisH6Q0Zr4mp7aSQn-/index.m3u8
+#EXTINF:-1 tvg-id="stream-4ab29915-534a-4ccb-9d0e-16fcc77a489a" tvg-name="Hub Premier 5 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/225_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",Hub Premier 5 HD
+http://iptv.852851.xyz/l/LKtlOhTjVPTCE1EfbLjjHIAlD5wI_q-dFmT6mmHQobqv7c3sEDzJT2hmBzE4R5_n/index.m3u8
+#EXTINF:-1 tvg-id="stream-de74f4a4-709f-4a39-8eca-b4abdc174e3f" tvg-name="Hub Premier 4 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/224_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",Hub Premier 4 HD
+http://iptv.852851.xyz/l/_kq6zjpC5fjPednG-pdls0fKPKaAhkwGyUsg3CEI_8oSbQLOpGuXyo-NnJ8xxeDk/index.m3u8
+#EXTINF:-1 tvg-id="stream-f5f49589-cc71-487f-a3ee-0492dcd714cd" tvg-name="Hub Premier 3 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/223_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",Hub Premier 3 HD
+http://iptv.852851.xyz/l/9rNtuRTyzcCWu1e6qvA_4Q6GlIsVRCTQoUrDCa56wR9RlCZ6bBwkhNizH0jz55mK/index.m3u8
+#EXTINF:-1 tvg-id="stream-63130f2e-853e-4985-a90e-7679f59c0345" tvg-name="Hub Premier 2 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/222_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",Hub Premier 2 HD
+http://iptv.852851.xyz/l/OmGcQqkWxY1wzLv5QcAFpuxd_raUlS_hypjvPCty52613d_pMq0vKtjhqGruun2w/index.m3u8
+#EXTINF:-1 tvg-id="stream-71d1b0e1-a485-4612-b8a9-a41d598ec436" tvg-name="Hub Premier 1 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/221_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",Hub Premier 1 HD
+http://iptv.852851.xyz/l/BDxYOwAPP09R2P4TLnBiivaSjIZ7mnrwndv9fWZNI7X49ORZwyjjI-lmnrJhfqH2/index.m3u8
+#EXTINF:-1 tvg-id="stream-56d6f103-12d2-46d3-95df-de67a00fa399" tvg-name="beIN Sports 5 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/216_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",beIN Sports 5 HD
+http://iptv.852851.xyz/l/0cMnhIXXvp0EMrqd4tyuxrMhFAQgsSzBnv5a00v1_nopYM67pgxHsUczk4jKE-Ld/index.m3u8
+#EXTINF:-1 tvg-id="stream-b1da2ed4-aba3-4f60-adad-bd618e2119f5" tvg-name="beIN Sports 4 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/215_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",beIN Sports 4 HD
+http://iptv.852851.xyz/l/ds2RE3fhPcKDhbY8gVwJ_iRx24Xp026f_SuhJNpu-J-A3qPQenl2Vf4VY8z4zKNO/index.m3u8
+#EXTINF:-1 tvg-id="stream-01157875-f062-48e4-ad8f-3ad9607e373a" tvg-name="beIN Sports 3 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/214_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",beIN Sports 3 HD
+http://iptv.852851.xyz/l/sno3hLs99gTHi2hm_1MhHCCAKzPMkFph6l2r8rVEsnvxgYGfM7If3wAH92pPtCZm/index.m3u8
+#EXTINF:-1 tvg-id="stream-e58db6b5-e3c5-4cf7-a5d4-e4d87d2c6aa1" tvg-name="beIN Sports 2 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/211_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",beIN Sports 2 HD
+http://iptv.852851.xyz/l/dE1pPzuL3ViZSiTVb_LqyO-Q_PDboNPq8B2CYxSDoFEzKDOFyLNIaP-P0lL3RUXw/index.m3u8
+#EXTINF:-1 tvg-id="stream-a881a153-52d4-4b3a-aad8-6b7c2fab7d70" tvg-name="Hub Sports 8 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/228_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",Hub Sports 8 HD
+http://iptv.852851.xyz/l/CpuLizcXA7_zed1jCbf_wNJA_hoPPQ9nqaXHMnbqi-Fj2Xcmja__rl4RnH8J0KSZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-923abad6-1890-414b-a99e-791e5b3e4912" tvg-name="Hub Sports 7 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/227_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",Hub Sports 7 HD
+http://iptv.852851.xyz/l/VLDLTmPoT1RAwSb51hdY9oGlxSBbu96WgKSHbXnFpihIEu3AZpNO1OYYJqT4e4la/index.m3u8
+#EXTINF:-1 tvg-id="stream-64151b81-840d-442f-b0aa-2c37e4633074" tvg-name="Hub Sports 6 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/226_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",Hub Sports 6 HD
+http://iptv.852851.xyz/l/7hJy2127ef1Vmt74_hwGhHVYpPb-3eeU2bsMbzEfV59jNk_0KvKAF33-_i6IgYpm/index.m3u8
+#EXTINF:-1 tvg-id="stream-f5a6276e-6869-4439-a88b-9103a9b8484c" tvg-name="Hub Sports 5 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/225_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",Hub Sports 5 HD
+http://iptv.852851.xyz/l/ldUj71_iIMjWgejw0XJMp8NvGBkzGZ48NprxAS1dd1CSrqfddHeGSVUt4LGJZn3R/index.m3u8
+#EXTINF:-1 tvg-id="stream-25de4845-b9ca-45f6-b5b0-1ed0f96a100e" tvg-name="Hub Sports 4 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/224_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",Hub Sports 4 HD
+http://iptv.852851.xyz/l/3JtfwrCbFhfPvbIqulY6WfV5Z3iIi9NSYi_BMy6BczT00msdnP38w78LSiX5sloh/index.m3u8
+#EXTINF:-1 tvg-id="stream-707f519d-e607-48e2-bdf5-3e91879a93bc" tvg-name="Hub Sports 3 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/223_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",Hub Sports 3 HD
+http://iptv.852851.xyz/l/SyPZe9lhdtytbFNTgPDoFv38SV8k7hwkIbNSM0VJvRZoskB7nyjqwxgx4Rd5Szdl/index.m3u8
+#EXTINF:-1 tvg-id="stream-410806ae-a89a-406d-8982-5bb0f44bec15" tvg-name="Hub Sports 2 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/222_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",Hub Sports 2 HD
+http://iptv.852851.xyz/l/Uy01rfKuQiU4z-ONg-ZLmom6uzR8e2C7WNo8gRRhZhndC0PPyTFgSVULrEzLH8xb/index.m3u8
+#EXTINF:-1 tvg-id="stream-e203c3dc-ac68-4a17-8eb7-0575aebabe7d" tvg-name="Hub Sports 1 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/221_1920x1080_HTV.png" group-title="🇸🇬 新加坡频道",Hub Sports 1 HD
+http://iptv.852851.xyz/l/7Asrbux_vkFdn5hVJiQQhZs5FTtomkUnk5ojX0itoET2Bev6EL8JRoNfVySMLrBh/index.m3u8
+#EXTINF:-1 tvg-id="stream-c3e9cd2b-635b-440a-b658-9d4382c8fb42" tvg-name="FIGHT SPORTS HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FIGHTSPORTHD.png" group-title="🇸🇬 新加坡频道",FIGHT SPORTS HD
+http://iptv.852851.xyz/l/ZXag24eiHHkWWRCV4PGrQrtjDd-M0zijouAyDTgCqUfM5RGbiM3na-eg4DIdAU4u/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png" group-title="SPORTS",Bein Sports Xtra 
+https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/beinSportsn.webp" group-title="SPORTS",Bein Sport Xtra 
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="SPORTS",Bein Sports 1 
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="SPORTS",Bein Sports 2 
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="SPORTS",Bein Sports 3 
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="SPORTS",Bein Sports 3 
+https://biraz.1386503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="SPORTS",Bein Sports 4
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT1_CZ.webp" group-title="SPORTS",Sport 1 
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT1_CZ.webp" group-title="SPORTS",Sport 1
+https://estreams.tv.nej.cz/dash/CH_SPORT1_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT2_CZ.webp" group-title="SPORTS",Sport 2 
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT2_CZ.webp" group-title="SPORTS",Sport 2 
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iprtl/p1/raw/master/logo/ArenaSport1.png" group-title="SPORTS",Arena Sport 1 
+https://dash2.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
+#EXTINF:-1 tvg-logo="https://github.com/iprtl/p1/raw/master/logo/ArenaSport2.png" group-title="SPORTS",Arena Sport 2 
+https://estreams.tv.nej.cz/dash/CH_ARENASPORT2_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://github.com/iprtl/p1/raw/master/logo/ArenaSport2.png" group-title="SPORTS",Arena Sport 2 
+https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/primasport1.png" group-title="SPORTS",Prima Sport 1 
+https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/primasport2.png" group-title="SPORTS",Prima Sport 2 
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/primasport3.png" group-title="SPORTS",Prima Sport 3 
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/novasport1.png" group-title="SPORTS",Nova Sport 1 
+https://estreams.tv.nej.cz/dash/CH_NOVA_SPORT1_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/novasport1.png" group-title="SPORTS",Nova Sport 1 
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/novasport2.png" group-title="SPORTS",Nova Sport 2 
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/novasport2.png" group-title="SPORTS",Nova Sport 2 
+https://estreams.tv.nej.cz/dash/CH_NOVA_SPORT2_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 1" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png" group-title="SPORTS",SPOTV 1 🇰🇷
+https://live-th10.myjktv.com/watch/live.m3u8?video=spotv_540&sid=nzBMVOLnaWw7dUmlUos3tELz8ccjTTXrLmwGKEvB&secret=e35c109e233e9c5da08a058c9ce29761&time=1767714463
+
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV Prime" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/7e36da649acf52299449f70a1412fdbf.png" group-title="SPORTS",SPOTV Prime 🇰🇷
+https://live-th10.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=9fcfb00fJCbgH9pTjDpp2Q1EFKKlRu2GZvVd1i1u&secret=4080e3d0a1068826704911b8853b620c&time=1767803179
+
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV Prime 2" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/8b3a24e8f2e7e5a5d591d94e1420990d.png" group-title="SPORTS",SPOTV Prime 2 🇰🇷
+https://live-th10.myjktv.com/watch/live.m3u8?video=spotv_on2_540&sid=32izxUvYl3fEraNifZa67JkcuBXNWdkZJOk2yjNW&secret=3e382f9ba62d36a5ef0e8fa2eb3c4760&time=1767830756
+
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV Prime+" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/784ba49d34bc3b29f93ab906a3adabc0.png" group-title="SPORTS",SPOTV Prime+ 🇰🇷
+https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_prime_540&sid=hiPdNSy2gSkZCmPSR97QAm1FCC4aoB0KrcIyAZKa&secret=74a5d8d0ed061fbb09816ab1de181649&time=1767830290
+
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png" group-title="SPORTS",SPOTV 2 🇰🇷
+https://live-th10.myjktv.com/watch/live.m3u8?video=spotv_2_540&sid=BwRoFwH9T3CiRbMDV7rJkGmIVETTDpOHH3exPFUE&secret=65de450449eac8944f76f002bf845454&time=1767832696
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png" group-title="SPORTS",SPOTV 2
+https://live-th10.myjktv.com/watch/live.m3u8?video=spotv_2_540&sid=BwRoFwH9T3CiRbMDV7rJkGmIVETTDpOHH3exPFUE&secret=65de450449eac8944f76f002bf845454&time=1767832696
+
+#EXTINF:-1 tvg-logo="https://imgcdn.cloudrsst.com:944/channels/thumbs/0bbd08802d6779b43051b798b5548acb.png" group-title="SPORTS",KBS 1
+https://live-th10.myjktv.com/watch/live.m3u8?video=kbs1_540&sid=w21wsSqJ8r5qKc68ETQVxSowc29wXefmbxAh9CHR&secret=85787d18edc07e446a97a37e3a786f46&time=1770376354
+
+#EXTINF:-1 tvg-logo="https://imgcdn.cloudrsst.com:944/channels/thumbs/1b04fcaa856f3bfbd11f9c2c802a1e87.png" group-title="SPORTS",KBS 2
+https://k227.jk-cdn.com/watch/live.m3u8?video=kbs2_540&sid=6J4RMxWKbKuI2X8Vr6zphgLAgRFHWQU3rbSOH23J&secret=313b7abf991e86677a61138f5095d7be&time=1770376525
+
+#EXTINF:-1 tvg-logo="https://imgcdn.cloudrsst.com:944/channels/thumbs/97f481081290d5a5fd9e66764c7310d8.png" group-title="SPORTS",MBC
+https://k227.jk-cdn.com/watch/live.m3u8?video=mbc_540&sid=JFkjJ9JfmKnlzfXyWcgglVwMyTCLe0NuBb6Br55A&secret=77ab10d6303f5014040a5895569163b2&time=1770376654
+
+#EXTINF:-1 tvg-logo="https://imgcdn.cloudrsst.com:944/channels/thumbs/4d0a6f09d0d374329255575686f1df6e.png" group-title="SPORTS",SBS
+https://k227.jk-cdn.com/watch/live.m3u8?video=sbs_540&sid=a6rNudyBqRzgDW8yOAirAUnJu47ZPEk22w2bI0Da&secret=f024328a06edde1a633ed01e08072b8b&time=1770376697
+
+#EXTINF:-1 tvg-logo="https://imgcdn.cloudrsst.com:944/channels/thumbs/6bcf59b7efac00e69be87982a34f8dd3.png" group-title="SPORTS",SBS Plus
+https://live-th10.myjktv.com/watch/live.m3u8?video=sbs_plus_540&sid=3NtMZhAcJ0lTwmwRlc1cNOET643swM4KUpEObSbO&secret=75f271cfec283633773eed94d6f366b4&time=1770378138
+
+#EXTINF:-1 tvg-logo="https://imgcdn.cloudrsst.com:944/channels/thumbs/aa99099dd98cee0f84144fa6c6e2515b.png" group-title="SPORTS",JTBC
+https://k227.jk-cdn.com/watch/live.m3u8?video=jtbc_540&sid=fjyNLXfHoHCAmzXbN5JRL8a7IghmfIJrI5R4ybIp&secret=a97d73d289d4f53e98764acf70d4840c&time=1770376732
+
+#EXTINF:-1 tvg-logo="https://imgcdn.cloudrsst.com:944/channels/thumbs/29a537d3fc44197bc25a22b521cae8fd.png" group-title="SPORTS",Channel A
+https://k227.jk-cdn.com/watch/live.m3u8?video=channela_540&sid=lS5d4Sw0WSpk0ybGPHkes7GVXx7QPVXdsZBlo0n3&secret=e422de02d286d5b2c6b73af9d2561f0b&time=1770376774
+
+#EXTINF:-1 tvg-logo="https://imgcdn.cloudrsst.com:944/channels/thumbs/aace249dcaa8235579dd03709ef483ca.jpg" group-title="SPORTS",KBSN Sports
+https://k227.jk-cdn.com/watch/live.m3u8?video=kbs_n_sports_540&sid=R4GRy7mw6xhSj44MORAUByaoeiZ9xCOVi40B607I&secret=b874b43ce1445a264b4639a31ed725f5&time=1770376816
+
+#EXTINF:-1 tvg-logo="https://imgcdn.cloudrsst.com:944/channels/thumbs/a6c92f95d1ae96abe3850b0c3a7e0287.jpeg" group-title="SPORTS",MBC Sports
+https://k227.jk-cdn.com/watch/live.m3u8?video=mbc_sports_540&sid=KbTbJFiDJu2iyUzoUpcHbnQJFzS1vrep6ZKEokUz&secret=0a39c60a0ad9d8193c2cc15df1e192ce&time=1770376851
+
+#EXTINF:-1 tvg-logo="https://imgcdn.cloudrsst.com:944/channels/thumbs/8776d01ce9401c3d4b94f4b438491134.jpg" group-title="SPORTS",Sky Sports
+https://k227.jk-cdn.com/watch/live.m3u8?video=sky_sports_540&sid=DVGsqs5cPt80EdYnOQ4shs3KlvbO6XytfUZe8sx3&secret=3427892767d52424e67b7553f7554f4b&time=1770376886
+
+#EXTINF:-1 tvg-logo="https://imgcdn.cloudrsst.com:944/channels/thumbs/0edff34c9d9dd9962c20880ea97d556d.png" group-title="SPORTS",SBS Sports
+https://k227.jk-cdn.com/watch/live.m3u8?video=sbs_sports_540&sid=Bt6DG9HSU3y5EFCMB3YyFr9tHU94P5HMj7iuPMH4&secret=222c3fba9db8592a8592156501eeb7a9&time=1770376919
+
+#EXTINF:-1 tvg-logo="https://imgcdn.cloudrsst.com:944/channels/thumbs/1cb50308f793d1d7c103fc3e74713043.png" group-title="SPORTS",MBC ON
+https://k227.jk-cdn.com/watch/live.m3u8?video=mbc_on_540&sid=apk7OA06vbLVNoq4XuRS9HhuVUFHzwA5wB6U930x&secret=030eea74becfc794dfb3766d98c6604b&time=1770376971
+
+#EXTINF:-1 tvg-logo="https://imgcdn.cloudrsst.com:944/channels/thumbs/8becb5e8265fe35d13fa9cc051db55a3.png" group-title="SPORTS",tvN
+https://k227.jk-cdn.com/watch/live.m3u8?video=tvn_540&sid=SQ95t5XI2oBGMV2Ir3P9YHQtftKYifyzqt6xuLWS&secret=b03b023f3a890b398ac7a36fffa0c20f&time=1770377019
+
+#EXTINF:-1 tvg-logo="https://imgcdn.cloudrsst.com:944/channels/thumbs/5d34a1033236c502f1603a030bf0416d.png" group-title="SPORTS",tvN Sports
+https://k227.jk-cdn.com/watch/live.m3u8?video=olivetv_540&sid=PhdLY1GT3C7OHFDlYP7CNzE9okYEu4ZwnRmjUuVU&secret=1acb00afe5084ccc2019084061ab04cd&time=1770377050
+
+#EXTINF:-1 tvg-logo="https://imgcdn.cloudrsst.com:944/channels/thumbs/260805990a3c2845ddda4158b3443cda.png" group-title="SPORTS",tvN Show
+https://k227.jk-cdn.com/watch/live.m3u8?video=xtm_540&sid=qH62iJdew3BoP9ydDUInw2ecgOlHLy0J1y0kTtX7&secret=733f1cc5d17b67ac38878bc553b13b94&time=1770377103
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="SPORTS", FOX SPORTS
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
