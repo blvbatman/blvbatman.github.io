@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kho Ứng Dụng APK</title>
-    <link rel="icon" type="image/png" href="./logoapp.png">
+    <link rel="icon" type="image/png" href="./logo.png">
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -54,7 +54,7 @@
             /* Đổ bóng & phát sáng huyền ảo nhẹ nhàng */
             text-shadow: 0 0 12px rgba(255, 255, 255, 0.6), 0 2px 5px rgba(0, 0, 0, 0.8); 
             line-height: 32px;
-            animation: marquee 35s linear infinite; /* Chạy chậm rành rọt */
+            animation: marquee 25s linear infinite; /* Thời gian mặc định */
         }
 
         /* Dừng lại khi di chuột vào */
@@ -297,7 +297,6 @@
 </head>
 <body>
 
-    <!-- Dòng chữ thông báo font Montserrat hiện đại, phát sáng nhẹ -->
     <div class="marquee-banner" id="marqueeBanner">
         <div class="marquee-text" id="marqueeText"></div>
     </div>
@@ -307,7 +306,6 @@
         <div class="loading">Đang tải danh sách ứng dụng...</div>
     </div>
 
-    <!-- Bảng Modal thông báo Code Downloader -->
     <div class="modal-overlay" id="codeModal">
         <div class="modal-box">
             <h3 id="modalTitle">Mã Code Downloader là:</h3>
@@ -334,9 +332,16 @@
                 const response = await fetch(thongBaoUrl);
                 if (response.ok) {
                     const content = await response.text();
-                    if (content && content.trim().length > 0) {
-                        textElement.innerText = content.trim();
-                        banner.style.display = 'block'; // Hiển thị dòng chữ
+                    const trimmedContent = content ? content.trim() : '';
+                    if (trimmedContent.length > 0) {
+                        textElement.innerText = trimmedContent;
+                        
+                        // Tính toán thời gian chạy tự động dựa trên số lượng ký tự
+                        // Mỗi ký tự sẽ cộng thêm 0.25s (thời gian tối thiểu 15s)
+                        const duration = Math.max(15, Math.ceil(trimmedContent.length * 0.25));
+                        textElement.style.animationDuration = `${duration}s`;
+
+                        banner.style.display = 'block';
                     } else {
                         banner.style.display = 'none';
                     }
