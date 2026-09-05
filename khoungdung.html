@@ -39,40 +39,41 @@
             user-select: none;
         }
 
-        /* POPUP BANNER TRUNG TÂM - TỰ ĐỘNG ÔM KHÍT KÍCH THƯỚC BANNER */
+        /* 1. POPUP BANNER TRUNG TÂM - TỰ ĐỘNG THÍCH ƯNG MỌI KÍCH THƯỚC (VUÔNG, NGANG, DỌC) */
         .popup-overlay {
             position: fixed;
             top: 0; left: 0; width: 100%; height: 100%;
-            background: rgba(0, 0, 0, 0.6);
+            background: rgba(0, 0, 0, 0.65);
             z-index: 99999;
             display: flex;
             justify-content: center;
             align-items: center;
             opacity: 1;
             transition: opacity 0.3s ease;
+            padding: 20px;
         }
         .popup-box {
-            background: rgba(255, 255, 255, 0.95);
-            border-radius: 20px;
-            padding: 12px;
-            width: auto;
-            max-width: 90vw;
-            max-height: 90vh;
+            background: rgba(255, 255, 255, 0.98);
+            border-radius: 16px;
+            padding: 10px;
+            width: fit-content;
+            height: fit-content;
+            max-width: min(85vw, 900px);
+            max-height: 85vh;
             position: relative;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.5);
-            text-align: center;
-            animation: popupAppear 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-            pointer-events: auto;
+            box-shadow: 0 25px 50px rgba(0,0,0,0.6);
             display: flex;
             justify-content: center;
             align-items: center;
+            animation: popupAppear 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            pointer-events: auto;
         }
         
         .popup-close-x {
             position: absolute;
             top: -12px; right: -12px;
             width: 36px; height: 36px;
-            background: rgba(0, 0, 0, 0.75);
+            background: rgba(0, 0, 0, 0.8);
             color: white;
             border-radius: 50%;
             display: flex; align-items: center; justify-content: center;
@@ -84,32 +85,34 @@
             transition: background 0.2s ease, transform 0.2s ease;
         }
         .popup-close-x:hover {
-            background: rgba(0, 0, 0, 0.9);
+            background: #000;
             transform: scale(1.1);
         }
 
         .popup-img-container {
-            display: block;
-            line-height: 0;
-            border-radius: 12px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 10px;
             overflow: hidden;
+            width: 100%;
+            height: 100%;
         }
         .popup-img-container img {
             display: block;
-            max-width: min(480px, 85vw); /* Giới hạn kích thước vừa vặn, không bị quá to hay quá nhỏ */
-            max-height: 75vh;
+            max-width: 100%;
+            max-height: 78vh;
             width: auto;
             height: auto;
-            object-fit: contain;
-            border-radius: 10px;
+            object-fit: contain; /* Đảm bảo giữ nguyên tỷ lệ gốc của ảnh, không bị méo */
+            border-radius: 8px;
         }
 
-        /* BANNER 2 BÊN TRÁI & PHẢI */
+        /* 2. BANNER 2 BÊN TRÁI & PHẢI - TỰ TÙY BIẾN THEO TỶ LỆ ẢNH */
         .side-banner {
             position: fixed;
             top: 100px;
-            width: 160px;
-            max-height: calc(100vh - 240px);
+            width: 150px;
             z-index: 900;
             display: flex;
             justify-content: center;
@@ -118,10 +121,14 @@
         .side-banner-left { left: 15px; }
         .side-banner-right { right: 15px; }
 
+        .side-banner a {
+            display: block;
+            width: 100%;
+        }
         .side-banner a img {
             width: 100%;
-            height: auto;
-            max-height: calc(100vh - 240px);
+            height: auto; /* Tự động co giãn theo chiều cao thực tế của banner */
+            max-height: calc(100vh - 220px);
             object-fit: contain;
             border-radius: 12px;
             box-shadow: 0 8px 20px rgba(0,0,0,0.3);
@@ -131,15 +138,14 @@
             transform: scale(1.03);
         }
 
-        /* BANNER DƯỚI */
+        /* 3. BANNER DƯỚI - TỰ TÙY BIẾN CHO MỌI ĐỊNH DẠNG (VD: 1920x1080 HOẶC CÁC KÍCH THƯỚC KHÁC) */
         .bottom-banner {
             position: fixed;
             bottom: 10px;
             left: 50%;
             transform: translateX(-50%);
             width: 90%;
-            max-width: 728px;
-            max-height: 100px;
+            max-width: 900px;
             z-index: 950;
             background: rgba(0, 0, 0, 0.4);
             backdrop-filter: blur(10px);
@@ -153,12 +159,13 @@
         .bottom-banner a {
             display: flex;
             justify-content: center;
+            align-items: center;
             width: 100%;
-            height: 100%;
         }
         .bottom-banner img {
             width: 100%;
-            height: 80px;
+            height: auto; /* Tự điều chỉnh chiều cao theo tỷ lệ gốc của banner dưới */
+            max-height: 90px; /* Giới hạn không quá cao để không che màn hình */
             object-fit: contain;
             border-radius: 8px;
         }
