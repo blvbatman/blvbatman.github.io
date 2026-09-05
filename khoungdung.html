@@ -4,13 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kho Ứng Dụng APK</title>
+    <link rel="icon" type="image/png" href="./logo.png">
     
-    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='%233b82f6'/><path d='M10 50 A40 40 0 0 0 90 50 A40 20 0 0 0 10 50 Z' fill='none' stroke='white' stroke-width='5'/><path d='M50 10 A20 40 0 0 0 50 90 A20 40 0 0 0 50 10 Z' fill='none' stroke='white' stroke-width='5'/><line x1='10' y1='50' x2='90' y2='50' stroke='white' stroke-width='5'/><line x1='50' y1='10' x2='50' y2='90' stroke='white' stroke-width='5'/></svg>">
-        
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@600;800&family=Montserrat:wght@700;800&display=swap" rel="stylesheet">
-        
+    
     <style>
         * {
             box-sizing: border-box;
@@ -33,10 +32,10 @@
         }
 
         .page-wrapper {
-            transition: filter 0.3s ease;
+            transition: none;
         }
+        /* Chặn bấm vào phía sau khi popup xuất hiện nhưng KHÔNG làm mờ (bỏ filter blur) */
         body.popup-active .page-wrapper {
-            filter: blur(8px);
             pointer-events: none;
             user-select: none;
         }
@@ -45,9 +44,7 @@
         .popup-overlay {
             position: fixed;
             top: 0; left: 0; width: 100%; height: 100%;
-            background: rgba(0, 0, 0, 0.75);
-            backdrop-filter: blur(5px);
-            -webkit-backdrop-filter: blur(5px);
+            background: rgba(0, 0, 0, 0.6); /* Lớp phủ tối nhẹ */
             z-index: 99999;
             display: flex;
             justify-content: center;
@@ -65,18 +62,16 @@
             box-shadow: 0 20px 40px rgba(0,0,0,0.5);
             text-align: center;
             animation: popupAppear 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            pointer-events: auto; /* Cho phép bấm vào popup */
         }
         
-        /* Ô vuông chứa dấu X bo tròn 4 góc, nền mờ */
         .popup-close-x {
             position: absolute;
             top: 10px; right: 10px;
             width: 36px; height: 36px;
             background: rgba(0, 0, 0, 0.4);
-            backdrop-filter: blur(8px);
-            -webkit-backdrop-filter: blur(8px);
             color: white;
-            border-radius: 10px; /* Bo 4 góc tròn */
+            border-radius: 10px;
             display: flex; align-items: center; justify-content: center;
             font-weight: bold;
             font-size: 18px;
@@ -168,6 +163,7 @@
             font-size: 12px;
             display: flex; align-items: center; justify-content: center;
             cursor: pointer;
+            z-index: 960;
         }
 
         /* DÒNG CHỮ CHẠY */
@@ -273,15 +269,14 @@
 </head>
 <body class="popup-active">
 
-    <!-- POPUP NỔI TRUNG TÂM -->
+    <!-- POPUP NỔI TRUNG TÂM (Thay link ảnh src và link trang đích href ở đây) -->
     <div class="popup-overlay" id="mainPopup">
         <div class="popup-box">
-            <!-- Nút X dạng ô vuông bo tròn 4 góc, nền mờ -->
             <div class="popup-close-x" onclick="closeMainPopup()">✕</div>
             
-            <a href="https://tiny.cc/kud" target="_blank">
+            <a href="https://vin88.cool/" target="_blank">
                 <div class="popup-img-container">
-                    <img src="https://via.placeholder.com/500x500/3b82f6/ffffff?text=BANNER+VUONG" alt="Banner Trung Tâm">
+                    <img src="https://phaohoa4.live/media/sponsors/materials/VIN88-NHA1-400x400.gif" alt="Banner Trung Tâm">
                 </div>
             </a>
         </div>
@@ -289,25 +284,25 @@
 
     <div class="page-wrapper">
 
-        <!-- BANNER BÊN TRÁI -->
+        <!-- BANNER BÊN TRÁI (Thay link ảnh src và link trang đích href ở đây) -->
         <div class="side-banner side-banner-left">
-            <a href="https://tiny.cc/kud" target="_blank">
-                <img src="https://via.placeholder.com/160x600/10b981/ffffff?text=BANNER+TRAI" alt="Banner Trái">
+            <a href="https://ok92.run/vit/home/index/in-play" target="_blank">
+                <img src="https://phaohoa4.live/media/sponsors/materials/banner_gif_ok9_100x220_copy_tDqJM2V.gif" alt="Banner Trái">
             </a>
         </div>
 
-        <!-- BANNER BÊN PHẢI -->
+        <!-- BANNER BÊN PHẢI (Thay link ảnh src và link trang đích href ở đây) -->
         <div class="side-banner side-banner-right">
-            <a href="https://tiny.cc/kud" target="_blank">
-                <img src="https://via.placeholder.com/160x600/3b82f6/ffffff?text=BANNER+PHAI" alt="Banner Phải">
+            <a href="https://ok92.run/vit/home/index/in-play" target="_blank">
+                <img src="https://phaohoa4.live/media/sponsors/materials/banner_gif_ok9_100x220_copy_tDqJM2V.gif" alt="Banner Phải">
             </a>
         </div>
 
-        <!-- BANNER DƯỚI -->
+        <!-- BANNER DƯỚI (Thay link ảnh src và link trang đích href ở đây) -->
         <div class="bottom-banner" id="bottomBanner">
             <div class="bottom-close" onclick="closeBottomBanner()">✕</div>
-            <a href="https://tiny.cc/kud" target="_blank">
-                <img src="https://via.placeholder.com/728x90/ef4444/ffffff?text=BANNER+DUOI" alt="Banner Dưới">
+            <a href="https://sv88.limo/" target="_blank">
+                <img src="https://phaohoa4.live/media/sponsors/materials/SV88_NHA_1920x100.gif" alt="Banner Dưới">
             </a>
         </div>
 
