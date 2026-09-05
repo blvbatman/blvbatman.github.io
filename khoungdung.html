@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kho Ứng Dụng</title>
+    <title>Kho Ứng Dụng APK</title>
     <link rel="icon" type="image/png" href="./logo.png">
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -55,12 +55,11 @@
             text-shadow: 0 0 12px rgba(255, 255, 255, 0.6), 0 2px 5px rgba(0, 0, 0, 0.8); 
             line-height: 32px;
             animation: marquee 25s linear infinite; /* Thời gian mặc định */
-            transition: animation-duration 0.3s ease; /* Tạo độ mượt khi đổi tốc độ */
         }
 
-        /* Giảm tốc độ xuống siêu chậm khi di chuột vào */
+        /* Dừng lại khi di chuột vào */
         .marquee-banner:hover .marquee-text {
-            animation-duration: 180s !important;
+            animation-play-state: paused;
             cursor: pointer;
         }
 
@@ -302,7 +301,7 @@
         <div class="marquee-text" id="marqueeText"></div>
     </div>
 
-    <h1>Kho Ứng Dụng</h1>
+    <h1>Kho Ứng Dụng APK</h1>
     <div class="container" id="app-list">
         <div class="loading">Đang tải danh sách ứng dụng...</div>
     </div>
@@ -338,6 +337,7 @@
                         textElement.innerText = trimmedContent;
                         
                         // Tính toán thời gian chạy tự động dựa trên số lượng ký tự
+                        // Mỗi ký tự sẽ cộng thêm 0.25s (thời gian tối thiểu 15s)
                         const duration = Math.max(15, Math.ceil(trimmedContent.length * 0.25));
                         textElement.style.animationDuration = `${duration}s`;
 
