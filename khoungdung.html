@@ -34,17 +34,16 @@
         .page-wrapper {
             transition: none;
         }
-        /* Chặn bấm vào phía sau khi popup xuất hiện nhưng KHÔNG làm mờ (bỏ filter blur) */
         body.popup-active .page-wrapper {
             pointer-events: none;
             user-select: none;
         }
 
-        /* POPUP BANNER TRUNG TÂM */
+        /* POPUP BANNER TRUNG TÂM - ĐÃ PHÓNG TO RỘNG HƠN */
         .popup-overlay {
             position: fixed;
             top: 0; left: 0; width: 100%; height: 100%;
-            background: rgba(0, 0, 0, 0.6); /* Lớp phủ tối nhẹ */
+            background: rgba(0, 0, 0, 0.6);
             z-index: 99999;
             display: flex;
             justify-content: center;
@@ -56,13 +55,13 @@
             background: rgba(255, 255, 255, 0.95);
             border-radius: 20px;
             padding: 15px;
-            max-width: 420px;
-            width: 90%;
+            max-width: 580px; /* Phóng to chiều ngang tối đa */
+            width: 92%;
             position: relative;
             box-shadow: 0 20px 40px rgba(0,0,0,0.5);
             text-align: center;
             animation: popupAppear 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-            pointer-events: auto; /* Cho phép bấm vào popup */
+            pointer-events: auto;
         }
         
         .popup-close-x {
@@ -86,14 +85,14 @@
 
         .popup-img-container {
             width: 100%;
-            aspect-ratio: 1 / 1;
+            aspect-ratio: 16 / 10; /* Chỉnh tỉ lệ hiển thị rộng thoáng hơn cho banner ngang/vuông */
             border-radius: 12px;
             overflow: hidden;
             background: #f3f4f6;
         }
         .popup-img-container img {
             width: 100%; height: 100%;
-            object-fit: cover;
+            object-fit: contain; /* Giúp ảnh/GIF không bị méo hay cắt mất góc */
         }
 
         /* BANNER 2 BÊN TRÁI & PHẢI */
@@ -269,7 +268,6 @@
 </head>
 <body class="popup-active">
 
-    <!-- POPUP NỔI TRUNG TÂM (Thay link ảnh src và link trang đích href ở đây) -->
     <div class="popup-overlay" id="mainPopup">
         <div class="popup-box">
             <div class="popup-close-x" onclick="closeMainPopup()">✕</div>
@@ -284,21 +282,18 @@
 
     <div class="page-wrapper">
 
-        <!-- BANNER BÊN TRÁI (Thay link ảnh src và link trang đích href ở đây) -->
         <div class="side-banner side-banner-left">
             <a href="https://ok92.run/vit/home/index/in-play" target="_blank">
                 <img src="https://phaohoa4.live/media/sponsors/materials/banner_gif_ok9_100x220_copy_tDqJM2V.gif" alt="Banner Trái">
             </a>
         </div>
 
-        <!-- BANNER BÊN PHẢI (Thay link ảnh src và link trang đích href ở đây) -->
         <div class="side-banner side-banner-right">
             <a href="https://ok92.run/vit/home/index/in-play" target="_blank">
                 <img src="https://phaohoa4.live/media/sponsors/materials/banner_gif_ok9_100x220_copy_tDqJM2V.gif" alt="Banner Phải">
             </a>
         </div>
 
-        <!-- BANNER DƯỚI (Thay link ảnh src và link trang đích href ở đây) -->
         <div class="bottom-banner" id="bottomBanner">
             <div class="bottom-close" onclick="closeBottomBanner()">✕</div>
             <a href="https://sv88.limo/" target="_blank">
