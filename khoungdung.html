@@ -5,11 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kho Ứng Dụng</title>
     <link rel="icon" type="image/png" href="./logo.png">
-    
+
+    <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@600;800&family=Montserrat:wght@700;800&display=swap" rel="stylesheet">
-    
+
     <style>
         * {
             box-sizing: border-box;
@@ -17,8 +18,8 @@
             padding: 0;
             font-family: 'Inter', 'Segoe UI', Roboto, sans-serif;
         }
+
         body {
-            /* Hình nền trang web từ GitHub */
             background-image: url('https://raw.githubusercontent.com/blvbatman/APPS/refs/heads/main/nen.jpg');
             background-size: cover;
             background-position: center;
@@ -28,13 +29,13 @@
             padding-bottom: 20px;
         }
 
-        /* 1. DÒNG CHỮ THÔNG BÁO HIỆN ĐẠI & SANG TRỌNG */
+        /* 1. DÒNG CHỮ THÔNG BÁO */
         .marquee-banner {
             width: 100%;
-            background: transparent; /* Không có nền */
+            background: transparent;
             overflow: hidden;
             white-space: nowrap;
-            display: none; /* Ẩn nếu không có nội dung */
+            display: none;
             position: relative;
             z-index: 100;
             padding-top: 12px;
@@ -43,21 +44,17 @@
         .marquee-text {
             display: inline-block;
             padding-left: 100%;
-            /* Phông chữ Montserrat đẳng cấp UI */
-            font-family: 'Montserrat', sans-serif; 
+            font-family: 'Montserrat', sans-serif;
             font-size: 16px;
-            font-weight: 800; /* In đậm hiện đại */
-            text-transform: uppercase; /* Tự động in hoa */
-            letter-spacing: 2.5px; /* Giãn khoảng cách chữ tạo nét sang trọng */
-            color: #ffffff; /* Dòng chữ màu trắng */
-            
-            /* Đổ bóng & phát sáng huyền ảo nhẹ nhàng */
-            text-shadow: 0 0 12px rgba(255, 255, 255, 0.6), 0 2px 5px rgba(0, 0, 0, 0.8); 
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 2.5px;
+            color: #ffffff;
+            text-shadow: 0 0 12px rgba(255, 255, 255, 0.6), 0 2px 5px rgba(0, 0, 0, 0.8);
             line-height: 32px;
-            animation: marquee 25s linear infinite; /* Thời gian mặc định */
+            animation: marquee 25s linear infinite;
         }
 
-        /* Dừng lại khi di chuột vào */
         .marquee-banner:hover .marquee-text {
             animation-play-state: paused;
             cursor: pointer;
@@ -73,7 +70,7 @@
             text-align: center;
             font-family: 'Montserrat', sans-serif;
             margin-top: 20px;
-            margin-bottom: 40px; 
+            margin-bottom: 40px;
             color: #ffffff;
             text-shadow: 0 4px 15px rgba(0, 0, 0, 0.6);
             animation: fadeIn 0.8s ease-out;
@@ -93,7 +90,7 @@
             padding: 0 20px;
         }
 
-        /* Ô CARD KÍNH TRONG SÁNG RẠNG RỠ */
+        /* 3. THẺ ỨNG DỤNG (CARD) */
         .card {
             background: rgba(255, 255, 255, 0.45);
             backdrop-filter: blur(10px);
@@ -107,7 +104,6 @@
             justify-content: space-between;
             height: 250px;
             border: 1px solid rgba(255, 255, 255, 0.6);
-            
             transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
             animation: cardAppear 0.5s cubic-bezier(0.25, 0.8, 0.25, 1) backwards;
         }
@@ -128,7 +124,6 @@
             line-height: 1.3;
         }
 
-        /* Logo bo 4 góc hình vuông */
         .app-logo {
             width: 80px;
             height: 80px;
@@ -151,12 +146,13 @@
             transform: scale(1.08) rotate(3deg);
         }
 
-        /* Nút bấm màu tươi sáng */
+        /* 4. NÚT BẤM */
         .btn-group {
             display: flex;
             gap: 10px;
             width: 100%;
         }
+
         .btn {
             flex: 1;
             padding: 10px 0;
@@ -169,11 +165,13 @@
             text-decoration: none;
             transition: all 0.2s ease;
         }
+
         .btn-download {
             background-color: #10b981;
             color: white;
             box-shadow: 0 3px 10px rgba(16, 185, 129, 0.3);
         }
+
         .btn-download:hover {
             background-color: #059669;
             transform: translateY(-2px);
@@ -185,6 +183,7 @@
             color: white;
             box-shadow: 0 3px 10px rgba(59, 130, 246, 0.3);
         }
+
         .btn-code:hover {
             background-color: #2563eb;
             transform: translateY(-2px);
@@ -201,7 +200,7 @@
             animation: fadeIn 0.5s ease;
         }
 
-        /* Modal Code Downloader */
+        /* 5. MODAL CODE DOWNLOADER */
         .modal-overlay {
             position: fixed;
             top: 0;
@@ -218,6 +217,7 @@
             opacity: 0;
             transition: opacity 0.3s ease;
         }
+
         .modal-overlay.active {
             display: flex;
             opacity: 1;
@@ -247,6 +247,7 @@
             color: #333;
             margin-bottom: 12px;
         }
+
         .modal-code {
             font-size: 20px;
             font-weight: bold;
@@ -257,12 +258,14 @@
             margin-bottom: 20px;
             word-break: break-word;
         }
+
         .modal-code.no-code {
             font-size: 15px;
             color: #dc2626;
             background: #fee2e2;
             font-weight: normal;
         }
+
         .btn-close {
             background-color: #6b7280;
             color: white;
@@ -273,11 +276,13 @@
             font-weight: bold;
             transition: background 0.2s, transform 0.2s;
         }
+
         .btn-close:hover {
             background-color: #4b5563;
             transform: translateY(-1px);
         }
 
+        /* ANIMATIONS */
         @keyframes fadeIn {
             from { opacity: 0; }
             to { opacity: 1; }
@@ -297,15 +302,20 @@
 </head>
 <body>
 
+    <!-- THÔNG BÁO CHẠY NGANG -->
     <div class="marquee-banner" id="marqueeBanner">
         <div class="marquee-text" id="marqueeText"></div>
     </div>
 
+    <!-- TIÊU ĐỀ -->
     <h1>Kho Ứng Dụng</h1>
+
+    <!-- DANH SÁCH APK -->
     <div class="container" id="app-list">
         <div class="loading">Đang tải danh sách ứng dụng...</div>
     </div>
 
+    <!-- POPUP XEM CODE -->
     <div class="modal-overlay" id="codeModal">
         <div class="modal-box">
             <h3 id="modalTitle">Mã Code Downloader là:</h3>
@@ -335,9 +345,8 @@
                     const trimmedContent = content ? content.trim() : '';
                     if (trimmedContent.length > 0) {
                         textElement.innerText = trimmedContent;
-                        
-                        // Tính toán thời gian chạy tự động dựa trên số lượng ký tự
-                        // Mỗi ký tự sẽ cộng thêm 0.25s (thời gian tối thiểu 15s)
+
+                        // Tự động tính thời gian chạy dựa trên độ dài chữ
                         const duration = Math.max(15, Math.ceil(trimmedContent.length * 0.25));
                         textElement.style.animationDuration = `${duration}s`;
 
@@ -353,6 +362,7 @@
             }
         }
 
+        // Hàm tải danh sách file APK từ Repo
         async function fetchApps() {
             try {
                 const response = await fetch(apiUrl);
@@ -371,7 +381,7 @@
                 apkFiles.forEach((file, index) => {
                     const rawUrl = `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/refs/heads/${BRANCH}/${encodeURIComponent(file.name)}`;
                     const nameWithoutExt = file.name.replace('.apk', '');
-                    
+
                     let appName = nameWithoutExt;
                     let appCode = null;
 
@@ -412,10 +422,11 @@
                     container.appendChild(card);
                 });
             } catch (error) {
-                container.innerHTML = `<div class="empty" style="color: red;">Lỗi: ${error.message}</div>`;
+                container.innerHTML = `<div class="empty" style="color: #ef4444;">Lỗi: ${error.message}</div>`;
             }
         }
 
+        // Hàm hiển thị Code Downloader
         function showCode(code) {
             const modal = document.getElementById('codeModal');
             const modalTitle = document.getElementById('modalTitle');
@@ -435,11 +446,13 @@
             modal.classList.add('active');
         }
 
+        // Hàm đóng Modal
         function closeModal() {
             const modal = document.getElementById('codeModal');
             modal.classList.remove('active');
         }
 
+        // Đóng khi click ngoài hộp modal
         window.onclick = function(event) {
             const modal = document.getElementById('codeModal');
             if (event.target === modal) {
@@ -447,6 +460,7 @@
             }
         }
 
+        // Khởi chạy khi load trang
         fetchNotification();
         fetchApps();
     </script>
