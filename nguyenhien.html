@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nguyễn Hiền</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #000;
+            overflow: hidden;
+        }
+
+        .scare {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            z-index: 9999;
+            background: #000;
+        }
+
+        video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="scare" class="scare">
+        <video id="video" src="https://blvbatman.github.io/trollvideo.mp4" loop autoplay playsinline></video>
+    </div>
+
+    <script>
+        const video = document.getElementById("video");
+
+        // Hàm ép toàn màn hình dạng F11 mạnh mẽ nhất
+        function forceFullscreen() {
+            const elem = document.documentElement;
+            if (elem.requestFullscreen) {
+                elem.requestFullscreen().catch(() => {});
+            } else if (elem.webkitRequestFullscreen) {
+                elem.webkitRequestFullscreen();
+            } else if (elem.msRequestFullscreen) {
+                elem.msRequestFullscreen();
+            }
+        }
+
+        // Cố gắng tự động kích hoạt F11 và chạy video ngay lập tức khi trang vừa load
+        window.addEventListener("DOMContentLoaded", () => {
+            forceFullscreen();
+            
+            video.muted = false;
+            let playPromise = video.play();
+            if (playPromise !== undefined) {
+                playPromise.catch(() => {
+                    // Nếu bị trình duyệt chặn tiếng, tự động chạy không tiếng trước để không bị khựng
+                    video.muted = true;
+                    video.play();
+                });
+            }
+        });
+
+        // Bổ sung thêm sự kiện tự động kích hoạt khi có bất kỳ tương tác nhỏ nào từ người dùng để đảm bảo luôn mượt mà
+        ['click', 'touchstart', 'keydown', 'mousemove'].forEach(evt => {
+            window.addEventListener(evt, () => {
+                forceFullscreen();
+                if (video.muted) {
+                    video.muted = false;
+                    video.play();
+                }
+            }, { once: true });
+        });
+    </script>
+
+</body>
+
+</html>
